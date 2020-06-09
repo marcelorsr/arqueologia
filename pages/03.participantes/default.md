@@ -7,12 +7,12 @@ page-inject:
     processed_content: false
 ---
 
-## Coordenadores e pesquisadores
+# Coordenadores e pesquisadores
 
 [plugin:content-inject](/participantes/_marcelorsr)
 [plugin:content-inject](/participantes/_marcelocosta)
 
-## Pesquisadores e pesquisadoras associadas
+# Pesquisadores e pesquisadoras associadas
 
 [plugin:content-inject](/participantes/_anacamila)
 [plugin:content-inject](/participantes/_jacsonornelas)
@@ -27,6 +27,6 @@ page-inject:
 [plugin:content-inject](/participantes/_pollydi)
 [plugin:content-inject](/participantes/_robertamutte)
 
-## Participantes anteriores
+# Participantes anteriores
 
 [plugin:content-inject](/participantes/_georgediniz)

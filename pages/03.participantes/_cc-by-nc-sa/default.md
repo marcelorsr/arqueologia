@@ -1,6 +1,11 @@
 ---
-title: CC-BY-NC-SA
+title: 'Ana Camila Esteves'
+media_order: 'Ana Camila.jpg'
+hide_git_sync_repo_link: false
 ---
 
-**CC-BY-NC-SA**  
-Creative Commons Attribution-Noncommercial-Share Alike license. OER licensed CC-BY-NC-SA can be modified, but must be credit must be given to the author. Additionally, it may not be used commercially and must be shared in the same manner. 
+## Ana Camila Esteves
+
+![](Ana%20Camila.jpg)
+
+Jornalista, [produtora cultural](http://www.anacamila.com/) e pesquisadora. Atualmente desenvolve pesquisa no âmbito do doutorado sobre as narrativas do urbano nos cinemas africanos contemporâneos. É idealizadora e curadora da Mostra de Cinemas Africanos e do projeto de cineclube Cine África, em Salvador.

@@ -1,8 +1,6 @@
 ---
 title: Footer
-routable: false
-visible: false
+hide_git_sync_repo_link: false
 ---
 
-Built with [Grav CMS](http://getgrav.org)  
-[Open Publishing Space](http://learn.hibbittsdesign.org/openpublishingspace) package by [hibbittsdesign.org](http://hibbittsdesign.org)  
+Criado e mantido em [Grav CMS](http://getgrav.org), com o pacote [Open Publishing Space](http://learn.hibbittsdesign.org/openpublishingspace) de [hibbittsdesign.org](http://hibbittsdesign.org).

@@ -1,5 +1,6 @@
 ---
 title: Início
+media_order: Fundo.jpg
 hide_git_sync_repo_link: false
 body_classes: 'header-dark header-transparent'
 child_type: item

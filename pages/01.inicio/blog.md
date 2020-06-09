@@ -1,19 +1,13 @@
 ---
-title: Blog
+title: Início
 hide_git_sync_repo_link: false
-sitemap:
-    changefreq: monthly
 body_classes: 'header-dark header-transparent'
+child_type: item
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
-modular_content:
-    items: '@self.modular'
-    order:
-        by: folder
-        dir: dsc
 content:
     items:
         - '@self.children'
@@ -29,9 +23,15 @@ display_post_summary:
 feed:
     limit: 10
     description: 'Sample Blog Description'
+sitemap:
+    changefreq: monthly
+modular_content:
+    items: '@self.modular'
+    order:
+        by: folder
+        dir: dsc
 pagination: true
-child_type: item
 ---
 
-# My **Open Publishing** Space
-## Create, Share and Collaborate
+# **Arqueologia do sensível**
+## Grupo de pesquisa e estudos

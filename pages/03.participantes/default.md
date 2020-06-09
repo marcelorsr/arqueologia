@@ -11,5 +11,6 @@ page-inject:
 
 [plugin:content-inject](/participantes/_marcelorsr)  
 [plugin:content-inject](/participantes/_marcelocosta)  
+[plugin:content-inject](/participantes/_marinalordelo)  
 
 ## 

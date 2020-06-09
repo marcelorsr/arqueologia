@@ -1,5 +1,6 @@
 ---
 title: 'Marcelo R. S. Ribeiro'
+media_order: 'Eu fotografado pela Juliana no Casa Cor 2016 [versão menor].jpg'
 hide_git_sync_repo_link: true
 ---
 

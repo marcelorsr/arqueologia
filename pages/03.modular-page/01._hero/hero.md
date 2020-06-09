@@ -1,7 +1,9 @@
 ---
 title: 'Homepage Hero'
+published: false
+hide_git_sync_repo_link: false
 menu: Top
-hero_classes: parallax text-light
+hero_classes: 'parallax text-light'
 hero_image: header.jpg
 ---
 

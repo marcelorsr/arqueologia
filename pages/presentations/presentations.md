@@ -1,13 +1,13 @@
 ---
 title: 'All Presentations'
-published: true
-visible: false
+published: false
+hide_git_sync_repo_link: false
+hide_page_title: false
+child_type: presentation
 content:
+    items: '@self.children'
     order:
         by: default
         dir: asc
-    items: '@self.children'
-hide_page_title: false
-hide_git_sync_repo_link: false
-child_type: presentation
 ---
+

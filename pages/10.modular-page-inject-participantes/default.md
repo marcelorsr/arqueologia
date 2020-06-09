@@ -9,7 +9,7 @@ page-inject:
 
 ## Coordenadores
 
-[plugin:content-inject](/modular-page-inject/_marcelorsr)  
-[plugin:content-inject](/modular-page-inject/_marcelocosta)  
+[plugin:content-inject](/modular-page-inject-participantes/_marcelorsr)  
+[plugin:content-inject](/modular-page-inject-participantes/_marcelocosta)  
 
 ## 

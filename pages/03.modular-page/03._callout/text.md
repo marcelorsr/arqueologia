@@ -1,7 +1,9 @@
 ---
-title: Homepage Text Callout
-menu: Easy Content
+title: 'Homepage Text Callout'
 image_align: right
+published: false
+hide_git_sync_repo_link: false
+menu: 'Easy Content'
 ---
 
 ## **Your Content** Unchained!

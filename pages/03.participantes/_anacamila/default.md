@@ -1,7 +1,7 @@
 ---
 title: 'Ana Camila Esteves'
 media_order: 'Ana Camila.jpg'
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 ---
 
 ## Ana Camila Esteves

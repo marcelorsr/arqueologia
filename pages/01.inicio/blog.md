@@ -1,7 +1,7 @@
 ---
 title: Início
 media_order: Fundo1000px.jpg
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 body_classes: 'header-dark header-transparent'
 child_type: item
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'

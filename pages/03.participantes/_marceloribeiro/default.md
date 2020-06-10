@@ -4,7 +4,7 @@ media_order: marceloribeiro.jpg
 hide_git_sync_repo_link: true
 ---
 
-![](marceloribeiro.jpg&resize=150,150&classes=right)
+![](marceloribeiro.jpg&resize=150,150&classes=right,s-round)
 
 ### Marcelo R. S. Ribeiro
 

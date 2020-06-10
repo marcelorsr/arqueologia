@@ -4,6 +4,7 @@ media_order: MarcosAlexandre.jpg
 hide_git_sync_repo_link: true
 ---
 
-#### Marcos Alexandre
+![](MarcosAlexandre.jpg&resize=150,150&classes=right)
 
-![](MarcosAlexandre.jpg&resize=200,200)
+### Marcos Alexandre
+

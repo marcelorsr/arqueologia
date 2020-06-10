@@ -9,8 +9,8 @@ page-inject:
 
 # Coordenadores e pesquisadores
 
-[plugin:content-inject](/participantes/_marcelorsr)
-[plugin:content-inject](/participantes/_marcelocosta)
+[plugin:content-inject](/participantes/marcelo-ribeiro)
+[plugin:content-inject](/participantes/marcelo-costa)
 
 # Pesquisadores e pesquisadoras associadas
 

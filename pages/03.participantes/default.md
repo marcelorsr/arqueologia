@@ -7,12 +7,12 @@ page-inject:
     processed_content: false
 ---
 
-# Coordenadores e pesquisadores
+### Coordenadores
 
-[plugin:content-inject](/participantes/marcelo-ribeiro)
-[plugin:content-inject](/participantes/marcelo-costa)
+[plugin:content-inject](/participantes/_marceloribeiro)
+[plugin:content-inject](/participantes/_marcelocosta)
 
-# Pesquisadores e pesquisadoras associadas
+### Membros
 
 [plugin:content-inject](/participantes/_anacamila)
 [plugin:content-inject](/participantes/_jacsonornelas)
@@ -26,7 +26,4 @@ page-inject:
 [plugin:content-inject](/participantes/_mateusviana)
 [plugin:content-inject](/participantes/_pollydi)
 [plugin:content-inject](/participantes/_robertamutte)
-
-# Participantes anteriores
-
 [plugin:content-inject](/participantes/_georgediniz)

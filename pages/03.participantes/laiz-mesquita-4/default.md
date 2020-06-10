@@ -1,7 +1,7 @@
 ---
-title: 'Laiz Mesquita 4'
+title: 'Laiz Mesquita'
 date: '23:35 09-06-2020'
 hide_git_sync_repo_link: false
 ---
 
-Your page content goes here.
+## Laiz Mesquita

@@ -5,13 +5,13 @@ date: '06-05-2020 20:30'
 publish_date: '06-05-2020 20:30'
 taxonomy:
     category:
-        - Anarqueológicas
+        - blog
+    tag:
+        - '#Anarqueológicas'
     author:
         - 'Marcelo R. S. Ribeiro'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
-recaptchacontact:
-    enabled: false
 hero_classes: 'hero-fullscreen overlay-dark text-light'
 hero_image: IMG_20200505_234958.jpg
 blog_url: /blog
@@ -23,6 +23,8 @@ summary:
 hide_from_post_list: false
 feed:
     limit: 10
+recaptchacontact:
+    enabled: false
 ---
 
 Recomendação comentada do livro O que você vê?, de Marie José Mondzain.

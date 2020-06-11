@@ -2,6 +2,12 @@
 title: 'Conversa aberta com Fábio Rodrigues Filho'
 media_order: 'Cartaz-chao.jpg,Tudo_que_e_apertado_rasga_(1).png,Tudo_que_e_apertado_rasga_(1).jpg'
 date: '11-06-2020 00:30'
+taxonomy:
+    tag:
+        - '#Anarqueológicas'
+    author:
+        - 'Marcelo R. S. Ribeiro'
+        - 'Marcelo Matos'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
 hero_classes: 'hero-fullscreen overlay-dark text-light'

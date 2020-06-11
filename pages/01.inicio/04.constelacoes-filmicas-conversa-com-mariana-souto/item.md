@@ -5,7 +5,9 @@ date: '12-05-2020 22:26'
 publish_date: '12-05-2020 22:26'
 taxonomy:
     category:
-        - Anarqueológicas
+        - blog
+    tag:
+        - '#Anarqueológicas'
     author:
         - 'Marcelo R. S. Ribeiro'
 hide_git_sync_repo_link: false

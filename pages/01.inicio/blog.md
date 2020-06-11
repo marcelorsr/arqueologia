@@ -23,7 +23,7 @@ display_post_summary:
     enabled: false
 feed:
     limit: 10
-    description: 'Sample Blog Description'
+    description: 'Registros das derivas do grupo Arqueologia do sensível'
 sitemap:
     changefreq: monthly
 modular_content:

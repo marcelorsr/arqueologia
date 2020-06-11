@@ -11,4 +11,4 @@ menu: 'Easy Content'
 
 Jornalista, [produtora cultural](http://www.anacamila.com/) e pesquisadora. Atualmente desenvolve pesquisa no âmbito do doutorado sobre as narrativas do urbano nos cinemas africanos contemporâneos. É idealizadora e curadora da [Mostra de Cinemas Africanos](http://mostradecinemasafricanos.com/) e do projeto de cineclube Cine África, em Salvador.
 
-[Mostra de Cinemas Africanos](http://mostradecinemasafricanos.com/?classes=btn,btn-primary,btn-lg&targer=_blank) - [Produção](http://www.anacamila.com/?classes=btn,btn-primary,btn-lg&targer=_blank)
+[Mostra de Cinemas Africanos](http://mostradecinemasafricanos.com/?classes=btn,btn-primary,btn-lg&target=_blank) - [Produção](http://www.anacamila.com/?classes=btn,btn-primary,btn-lg&target=_blank)

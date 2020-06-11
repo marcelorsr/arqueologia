@@ -10,8 +10,6 @@ taxonomy:
         - 'Marcelo R. S. Ribeiro'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
-recaptchacontact:
-    enabled: false
 hero_classes: 'hero-large overlay-dark text-light'
 hero_image: constelacoes.jpg
 blog_url: /blog
@@ -23,6 +21,8 @@ summary:
 hide_from_post_list: false
 feed:
     limit: 10
+recaptchacontact:
+    enabled: false
 author: 'Marcelo R. S. Ribeiro'
 ---
 

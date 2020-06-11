@@ -1,5 +1,5 @@
 ---
-title: Sobre
+title: 'Sobre o grupo'
 media_order: 'Arqueologia do sensível [fundo roxo].jpg,Substack banner - Arqueologia do sensível [transparente].png'
 published: true
 hide_git_sync_repo_link: false

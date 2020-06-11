@@ -3,6 +3,11 @@ title: Sobre
 media_order: 'Arqueologia do sensível [fundo roxo].jpg,Substack banner - Arqueologia do sensível [transparente].png'
 published: true
 hide_git_sync_repo_link: false
+hide_hypothesis: false
+recaptchacontact:
+    enabled: true
+    recipient: arqueologiadosensivel@gmail.com
+    subject: '[Mensagem via site]'
 ---
 
 O grupo de pesquisa e estudos Arqueologia do Sensível, criado em abril de 2018, sediado na Faculdade de Comunicação da Universidade Federal da Bahia e coordenado pelos professores Marcelo Monteiro Costa e Marcelo Rodrigues Souza Ribeiro, busca refletir sobre a imagem em sentido amplo, em perspectiva histórica e antropológica, com um interesse aberto em diversas possibilidades de estudos e experiências.
@@ -14,3 +19,4 @@ O que define essa rede em construção é a partilha do interesse em um horizont
 Assine:
 [![](Substack%20banner%20-%20Arqueologia%20do%20sensi%CC%81vel%20%5Btransparente%5D.png)
 ](https://arqueologiadosensivel.substack.com/)
+

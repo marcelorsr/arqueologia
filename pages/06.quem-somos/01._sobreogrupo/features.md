@@ -1,5 +1,5 @@
 ---
-title: 'Sobre o grupo'
+title: 'O que é'
 media_order: 'YouTube - Arte do canal.jpg,Substack banner - Arqueologia do sensível [transparente].png'
 published: true
 hide_git_sync_repo_link: true
@@ -9,19 +9,19 @@ features:
     -
         icon: 'fa fa-random'
         header: Deriva
-        text: 'Itinerários metodológicos experimentais'
+        text: 'Exploramos itinerários metodológicos experimentais'
     -
         icon: 'fa fa-eye'
         header: 'Ver juntos'
-        text: 'A abertura radical da partilha do sensível'
+        text: 'Partimos de uma abertura radical da partilha do sensível'
     -
         icon: 'fa fa-bullseye'
         header: 'Escutar juntos'
-        text: 'O reconhecimento da multiplicidade do sensível'
+        text: 'Buscamos reconhecer e acolher a multiplicidade do sensível'
     -
         icon: 'fa fa-eye-slash'
         header: Anarqueologia
-        text: 'Pulsações rítmicas de anacronismos, terras reviradas e formas esburacadas'
+        text: 'Acolhemos as pulsações rítmicas do anacrônico e do contra-intuitivo'
 ---
 
 # Arqueologia do sensível

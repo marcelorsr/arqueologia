@@ -16,7 +16,6 @@ Trata-se de uma iniciativa de articulação interdisciplinar – e, potencialmen
 
 O que define essa rede em construção é a partilha do interesse em um horizonte empírico ampliado, definido pelo conceito de sensível, e em uma abertura metodológica radical, definida pelo conceito de arqueologia.
 
-Assine:
-[![](Substack%20banner%20-%20Arqueologia%20do%20sensi%CC%81vel%20%5Btransparente%5D.png)
-](https://arqueologiadosensivel.substack.com/)
+Assine nossa newsletter:
+<iframe src="https://arqueologiadosensivel.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 

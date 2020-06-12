@@ -37,11 +37,3 @@ author: 'Marcelo R. S. Ribeiro'
 ## Extensão
 
 ### #Anarqueológicas
-
-#### Derivas anarqueológicas
-
-#### Conversas anarqueológicas
-
-#### Encontros dramáticos anarqueológicos
-
-#### Frequências anarqueológicas

@@ -2,7 +2,7 @@
 title: Início
 media_order: Fundo1000px.jpg
 hide_git_sync_repo_link: true
-hide_hypothesis: false
+hide_hypothesis: true
 body_classes: 'header-dark header-transparent'
 child_type: item
 visible: false

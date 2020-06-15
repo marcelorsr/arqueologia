@@ -1,6 +1,6 @@
 ---
 title: 'Conversa aberta com Tila Chitunda'
-media_order: 'FotogrÁfrica-thumbnail.jpg,Fotografrica_divulgacao06_credito_Roberto Iuri.png'
+media_order: FotogrÁfrica-thumbnail.jpg
 date: '26-05-2020 15:45'
 taxonomy:
     tag:
@@ -12,7 +12,7 @@ taxonomy:
 hide_git_sync_repo_link: false
 hide_hypothesis: false
 hero_classes: 'hero-full-screen overlay-dark text-light'
-hero_image: 'Fotografrica_divulgacao06_credito_Roberto Iuri.png'
+hero_image: FotogrÁfrica-thumbnail.jpg
 blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: false

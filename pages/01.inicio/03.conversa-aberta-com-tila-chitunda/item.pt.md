@@ -23,7 +23,7 @@ feed:
 author: 'Marcelo R. S. Ribeiro'
 ---
 
-Como parte do projeto #Anarqueológicas, recebemos a cineasta Tila Chitunda para uma conversa sobre três de seus filmes, FotogrÁfrica (2016), Nome de Batismo - Alice (2017) e Nome de Batismo - Frances (2019).
+Como parte do projeto #Anarqueológicas, recebemos a cineasta Tila Chitunda para uma conversa sobre três de seus filmes, _FotogrÁfrica_ (2016), _Nome de Batismo - Alice_ (2017) e _Nome de Batismo - Frances_ (2019).
 
 [plugin:youtube](https://youtu.be/qq9nyOOECXE)
 

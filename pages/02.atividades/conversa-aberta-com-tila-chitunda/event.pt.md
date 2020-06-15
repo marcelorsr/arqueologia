@@ -14,4 +14,4 @@ event:
 author: 'Marcelo R. S. Ribeiro'
 ---
 
-Link para informações e inscrição: [https://www.eventbrite.com.br/e/conversa-aberta-com-tila-chitunda-registration-104518858720](https://www.eventbrite.com.br/e/conversa-aberta-com-tila-chitunda-registration-104518858720?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=eventcard)
+Para informações e inscrição: [clique aqui](https://www.eventbrite.com.br/e/conversa-aberta-com-tila-chitunda-registration-104518858720?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=eventcard)

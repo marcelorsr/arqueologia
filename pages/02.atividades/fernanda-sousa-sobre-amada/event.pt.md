@@ -4,9 +4,9 @@ media_order: 'Fernanda.jpg,Portrait of Toni Morrison by © Timothy Greenfield-Sa
 date: '13-06-2020 03:59'
 taxonomy:
     category:
-        - Reunião
-hide_git_sync_repo_link: false
-hide_hypothesis: false
+        - Palestra
+hide_git_sync_repo_link: true
+hide_hypothesis: true
 event:
     start: '25-06-2020 17:00'
     end: '25-06-2020 20:00'

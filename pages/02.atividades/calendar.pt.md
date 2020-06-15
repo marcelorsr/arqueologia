@@ -18,3 +18,6 @@ content:
 author: 'Marcelo R. S. Ribeiro'
 ---
 
+Clique nos dias destacados para saber mais detalhes sobre as atividades que realizamos.
+
+Para participar, [entre em contato](http://www.arqueologiadosensivel.ufba.br/contato).

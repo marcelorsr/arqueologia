@@ -8,13 +8,14 @@ taxonomy:
         - 'Conversa aberta'
 hide_git_sync_repo_link: true
 hide_hypothesis: true
-visible: true
 event:
     start: '17-06-2020 17:00'
     end: '17-06-2020 20:00'
     location: Online
 author: 'Marcelo R. S. Ribeiro'
 ---
+
+Projeto #Anarqueológicas, com transmissão ao vivo.
 
 No próximo dia 17/06, quarta-feira, às 17h, ocorre mais uma conversa aberta do projeto #Anarqueológicas, com Fábio Rodrigues Filho, diretor do filme, a partir de seu filme [*Tudo que é apertado rasga* (2019), de Fábio Rodrigues Filho](http://portacurtas.org.br/filme/?name=tudo_que_e_apertado_rasga) e da pesquisa relacionada, para pensar junto a questão do arquivo e seus dilemas. O filme está em exibição, como parte do Grande Prêmio de Cinema Brasileiro de 2020, no Porta Curtas, já faz algum tempo, e sua abordagem de imagens de arquivo interroga, com um gesto arqueológico e inventivo, o modo como atores e atrizes negras participam da história do cinema brasileiro.
 

@@ -7,8 +7,8 @@ taxonomy:
 hide_git_sync_repo_link: false
 hide_hypothesis: false
 event:
-    start: '22-06-2020 17:00'
-    end: '22-06-2020 20:00'
+    start: '29-06-2020 17:00'
+    end: '29-06-2020 20:00'
     location: Online
 author: 'Marcelo R. S. Ribeiro'
 ---

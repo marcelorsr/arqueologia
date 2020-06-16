@@ -4,8 +4,8 @@ date: '13-06-2020 03:59'
 taxonomy:
     category:
         - Reunião
-hide_git_sync_repo_link: false
-hide_hypothesis: false
+hide_git_sync_repo_link: true
+hide_hypothesis: true
 event:
     start: '22-06-2020 17:00'
     end: '22-06-2020 20:00'

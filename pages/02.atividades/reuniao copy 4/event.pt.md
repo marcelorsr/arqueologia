@@ -1,7 +1,7 @@
 ---
 title: 'Reunião [modelo]'
 date: '22-06-2020 10:00'
-publish_date: '22-06-2020 10:00'
+publish_date: '22-06-2020 0:00'
 published: false
 taxonomy:
     category:

@@ -87,4 +87,4 @@ Caso prefira, você pode acessar o vídeo [diretamente no YouTube](https://www.y
 
 [42:45](https://www.youtube.com/watch?v=w-MOqITFpOw&t=2565s) - Festival We Are One (encerrado) - [http://www.weareoneglobalfestival.com](https://href.li/?http://www.weareoneglobalfestival.com) / [https://www.youtube.com/WeAreOne](https://href.li/?https://www.youtube.com/WeAreOne) - Conversa sobre Kmêdeus no Cine África em Casa: [https://www.youtube.com/watch?v=UTTYiBhZ7YM](https://www.youtube.com/watch?v=UTTYiBhZ7YM)
 
-[45:02](https://www.youtube.com/watch?v=w-MOqITFpOw&t=2702s) - incinerrante: https://www.incinerrante.com/ - Twitter: https://www.twitter.com/marcelorsr - Facebook: https://www.twitter.com/marcelorsr - Arqueologia do sensível: https://arqueologiadosensivel.substack.com/
+[45:02](https://www.youtube.com/watch?v=w-MOqITFpOw&t=2702s) - [incinerrante](https://www.incinerrante.com/) - [Twitter](https://www.twitter.com/marcelorsr) - [Facebook](https://www.facebook.com/marcelorsr) - [Newsletter do Arqueologia do sensível](https://arqueologiadosensivel.substack.com/)

@@ -1,6 +1,6 @@
 ---
 title: 'Conversa aberta com Fabio Rodrigues Filho'
-media_order: 'Cartaz-chão.jpg,Tudo que é apertado rasga (1).jpg,Tudo que é apertado rasga (1).png'
+media_order: Cartaz-chão.jpg
 date: '11-06-2020 19:30'
 publish_date: '11-06-2020 19:30'
 taxonomy:
@@ -17,16 +17,11 @@ author: 'Marcelo R. S. Ribeiro'
 
 Projeto #Anarqueológicas, com transmissão ao vivo.
 
-No próximo dia 17/06, quarta-feira, às 17h, ocorre mais uma conversa aberta do projeto #Anarqueológicas, com Fábio Rodrigues Filho, diretor do filme, a partir de seu filme [*Tudo que é apertado rasga* (2019), de Fábio Rodrigues Filho](http://portacurtas.org.br/filme/?name=tudo_que_e_apertado_rasga) e da pesquisa relacionada, para pensar junto a questão do arquivo e seus dilemas. O filme está em exibição, como parte do Grande Prêmio de Cinema Brasileiro de 2020, no Porta Curtas, já faz algum tempo, e sua abordagem de imagens de arquivo interroga, com um gesto arqueológico e inventivo, o modo como atores e atrizes negras participam da história do cinema brasileiro.
+No próximo dia 17/06, quarta-feira, às 17h, ocorre mais uma conversa aberta do projeto #Anarqueológicas, com Fábio Rodrigues Filho, a partir de seu filme [*Tudo que é apertado rasga* (2019)](http://portacurtas.org.br/filme/?name=tudo_que_e_apertado_rasga) e da pesquisa relacionada, para pensar junto a questão do arquivo e seus dilemas. O filme está em exibição, como parte do Grande Prêmio de Cinema Brasileiro de 2020, no Porta Curtas, já faz algum tempo, e sua abordagem de imagens de arquivo interroga, com um gesto arqueológico e inventivo, o modo como atores e atrizes negras participam da história do cinema brasileiro.
 
-As inscrições estão abertas: [https://doity.com.br/conversa-aberta-com-fabio-rodrigues-filho](https://doity.com.br/conversa-aberta-com-fabio-rodrigues-filho)
+[Inscrições](https://doity.com.br/conversa-aberta-com-fabio-rodrigues-filho?classes=btn,btn-primary,btn-lg)
 
-## Filme: *Tudo que é apertado rasga* (2019, 27')
-
-![](Cartaz-chao.jpg?resize=460&classes=left)
-![](Tudo_que_e_apertado_rasga_%281%29.png?resize=460&classes=right)
-
-![](Tudo_que_e_apertado_rasga_%281%29.jpg)
+[**Filme: *Tudo que é apertado rasga* (2019, 27')**](http://portacurtas.org.br/filme/?name=tudo_que_e_apertado_rasga)
 
 Sinopse: Na tentativa de forjar uma ferramenta capaz de operar o corte por justiça, este filme retoma e intervém em imagens de arquivo, reestudando parte da cinematografia nacional à luz da presença e agência do ator e da atriz negra.
 

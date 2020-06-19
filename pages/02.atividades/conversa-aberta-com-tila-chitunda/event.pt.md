@@ -1,5 +1,6 @@
 ---
 title: 'Conversa aberta com Tila Chitunda'
+media_order: FotogrÁfrica-thumbnail.jpg
 date: '11-05-2020 19:30'
 publish_date: '11-05-2020 19:30'
 taxonomy:

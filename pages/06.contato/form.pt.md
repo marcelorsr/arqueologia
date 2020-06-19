@@ -52,6 +52,10 @@ form:
 
 # Contato
 
+Estamos em Salvador da Bahia, na Faculdade de Comunicação da UFBA. Abaixo, você encontra nossa localização no Google Maps e um formulário para envio de mensagens.
+
+![Imagem retangular de fundo roxo ou vinho, com diferentes textos escritos: em amarelo, "Grupo de pesquisa e estudos"; em rosa, "Arqueologia do sensível"; em branco, "Faculdade de Comunicação da UFBA".](Arqueologia%20do%20sens%C3%ADvel%20%5Bfundo%20roxo%5D.jpg?classes=s-rounded)
+
 ## Onde estamos
 
 [google-maps width='100%' lat=-13.001266 lng=-38.510219 zoom=14 scrollwheel=true panControl=true]

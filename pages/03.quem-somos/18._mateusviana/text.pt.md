@@ -7,4 +7,6 @@ hide_hypothesis: false
 menu: 'Easy Content'
 ---
 
-## Mateus Viana
+## Mateus de Jesus Viana
+
+[Currículo Lattes](http://lattes.cnpq.br/0067530748582650?classes=btn,btn-primary,btn-lg)

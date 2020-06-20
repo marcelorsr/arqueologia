@@ -13,3 +13,5 @@ menu: 'Easy Content'
 ! Ex-integrante
 
 George Diniz Teixeira, graduado em Geografia e em Comunicação Social com habilitação em Jornalismo, é realizador cinematográfico em formação.
+
+[Currículo Lattes](http://lattes.cnpq.br/5236916087888494?classes=btn,btn-primary,btn-lg)

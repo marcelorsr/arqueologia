@@ -58,7 +58,12 @@ Estamos em Salvador da Bahia, na Faculdade de Comunicação da UFBA. Abaixo, voc
 
 ## Onde estamos
 
-[google-maps width='100%' lat=-13.001266 lng=-38.510219 zoom=14 scrollwheel=true panControl=true]
-[/google-maps]
+[map-leaflet lat=-13.00145 lng=-38.51027 zoom=15 mapname=sede]
+[a-markers markerColor="purple"
+iconColor="white"
+]
+[{ "lat": -13.00145, "lng": -38.51027, "icon": "map-marker", "title": "Facom-UFBA" } ]
+[/a-markers]
+[/map-leaflet]
 
 ## Envie uma mensagem

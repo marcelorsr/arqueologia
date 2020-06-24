@@ -1,6 +1,6 @@
 ---
 title: Contact
-media_order: 'Arqueologia do sensível [fundo roxo].jpg'
+published: true
 hide_git_sync_repo_link: true
 hide_hypothesis: true
 slug: contact
@@ -55,7 +55,7 @@ form:
 
 We are located in Salvador, at the state of Bahia, Brazil, in the Faculty of Communication of the Federal University of Bahia. Below, you may find our location and a contact form.
 
-![](Arqueologia%20do%20sensi%CC%81vel%20%5Bfundo%20roxo%5D.jpg?classes=s-rounded)
+![](logo.jpg?classes=s-rounded)
 
 ## Our location
 

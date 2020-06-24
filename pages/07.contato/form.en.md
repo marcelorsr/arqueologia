@@ -3,6 +3,7 @@ title: Contact
 media_order: 'Arqueologia do sensível [fundo roxo].jpg'
 hide_git_sync_repo_link: true
 hide_hypothesis: true
+slug: contact
 form:
     name: contact
     fields:

@@ -1,10 +1,27 @@
 ---
 title: 'Cosmopoéticas do espectador selvagem'
-media_order: taego.jpg
+media_order: 'taego.jpg'
+published: true
+date: '25-05-2020 10:40'
+publish_date: '25-05-2020 10:40'
+taxonomy:
+    category:
+        - Artigo
+    author:
+        - 'Marcelo R. S. Ribeiro'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
-hide_page_title: false
-author: 'Marcelo R. S. Ribeiro'
+hero_classes: 'hero-fullscreen parallax overlay-dark text-light'
+hero_image: taego.jpg
+blog_url: /publicacoes
+show_sidebar: false
+show_breadcrumbs: false
+show_pagination: true
+summary:
+    size: 70
+hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 Artigo de Marcelo R. S. Ribeiro publicado na [Significação - Revista de Cultura Audiovisual (v. 47, n. 53, 2020)](https://www.revistas.usp.br/significacao/issue/view/11485).

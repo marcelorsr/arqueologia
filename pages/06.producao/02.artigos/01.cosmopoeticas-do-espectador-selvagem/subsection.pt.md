@@ -1,5 +1,5 @@
 ---
-title: Cosmopoéticas do espectador selvagem
+title: 'Cosmopoéticas do espectador selvagem'
 media_order: taego.jpg
 hide_git_sync_repo_link: false
 hide_hypothesis: false
@@ -23,4 +23,4 @@ Based on the analysis of the cinematographic forms of reconstituting history in 
 
 **Keywords**: film, history, indigenous genocides, archive, montage.
 
-[](taego.jpg?classes=left)
+![Captura de tela do filme Taego Ãwa, na qual se vê uma menina olhando para fora do enquadramento, em direção ao lado esquerdo da imagem, que no filme é o espaço em que se encontra uma televisão](taego.jpg)

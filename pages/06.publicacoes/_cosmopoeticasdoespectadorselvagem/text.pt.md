@@ -1,15 +1,10 @@
 ---
 title: 'Cosmopoéticas do espectador selvagem'
+media_order: taego.jpg
 image_align: left
-taxonomy:
-    category:
-        - Artigo
-    author:
-        - 'Marcelo R. S. Ribeiro'
+published: true
 hide_git_sync_repo_link: true
 hide_hypothesis: false
-content:
-    items: '@self.modular'
 author: 'Marcelo R. S. Ribeiro'
 ---
 

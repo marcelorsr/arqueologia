@@ -7,11 +7,9 @@ hide_page_title: false
 author: 'Marcelo R. S. Ribeiro'
 ---
 
-## Cosmopoéticas do espectador selvagem
+Artigo de Marcelo R. S. Ribeiro publicado na [Significação - Revista de Cultura Audiovisual (v. 47, n. 53, 2020)](https://www.revistas.usp.br/significacao/issue/view/11485).
 
-Artigo de Marcelo R. S. Ribeiro publicado na Significação - Revista de Cultura Audiovisual (v. 47, n. 53, 2020).
-
-Disponível [em português](https://www.revistas.usp.br/significacao/article/view/160501/160492) e [em inglês](https://www.revistas.usp.br/significacao/article/view/160501/161442)
+Disponível [em português](https://www.revistas.usp.br/significacao/article/view/160501/160492) e [em inglês](https://www.revistas.usp.br/significacao/article/view/160501/161442).
 
 ### Resumo
 
@@ -24,3 +22,5 @@ Com base na análise das formas cinematográficas de reconstituição da histór
 Based on the analysis of the cinematographic forms of reconstituting history in _Serras da desordem_, _Corumbiara_ and _Taego Ãwa_, I identify the importance of the figure of indigenous spectators for understanding the images that the films create and mobilize. I argue that the effective, virtual or spectral countershot of indigenous spectators constitutes a discursive device operating in the films and in the relationship they establish with the historical archive. The device of the savage spectator triggers what I call anarchival montage, disturbing the arrangement of the historical archive produced by the violence of genocide and insinuating possibilities of creating a common world.
 
 **Keywords**: film, history, indigenous genocides, archive, montage.
+
+[](taego.jpg?classes=left)

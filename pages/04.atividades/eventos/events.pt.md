@@ -9,7 +9,7 @@ content:
             type: event
     order:
         by: date
-        dir: asc
+        dir: dsc
     limit: '10'
     pagination: true
 author: 'Marcelo R. S. Ribeiro'

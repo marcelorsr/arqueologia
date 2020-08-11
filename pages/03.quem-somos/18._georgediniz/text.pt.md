@@ -10,6 +10,8 @@ menu: 'Easy Content'
 
 ## George Diniz Teixeira
 
+!!! Iniciação científica
+
 ! Egresso
 
 George Diniz Teixeira, graduado em Geografia e graduando em Comunicação Social com habilitação em Jornalismo, é realizador cinematográfico em formação. No grupo, George participou das atividades do projeto _Imagem e direitos humanos: consciência da humanidade, memórias de violações e projeções de dignidade no cinema e no audiovisual_, apresentado ao Edital PIBIC UFBA 01/2018, desenvolvendo o plano de trabalho "Elaboração de filmografia e de bibliografia comentadas sobre o cinema de Jia Zhangke", contemplado com bolsa do CNPq (agosto de 2018 a julho de 2019).

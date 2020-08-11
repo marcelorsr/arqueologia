@@ -18,6 +18,8 @@ content:
 author: 'Marcelo R. S. Ribeiro'
 ---
 
+As reuniões semanais do grupo ocorrem, a princípio, durante os períodos letivos da UFBA. Atualmente, essas reuniões semanais são toda segunda, a partir das 17h.
+
 Clique nos dias destacados para saber mais detalhes sobre as atividades que realizamos.
 
 Para participar, [entre em contato](http://www.arqueologiadosensivel.ufba.br/contato).

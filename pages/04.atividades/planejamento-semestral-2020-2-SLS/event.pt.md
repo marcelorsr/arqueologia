@@ -14,4 +14,4 @@ author: 'Marcelo R. S. Ribeiro'
 
 Reunião online por meio de videoconferência.
 
-Planejamento das atividades do grupo no Semestre Letivo Complementar da Universidade Federal da Bahia, criado conforme a Resolução 01/2020 do CONSUNI, com calendário definido na Resolução 01/2020 do CONSEPE, com início em 08/09/2020 e término em 18/12/2020.
+Planejamento das atividades do grupo no Semestre Letivo Suplementar da Universidade Federal da Bahia, criado conforme a Resolução 01/2020 do CONSUNI, com calendário definido na Resolução 01/2020 do CONSEPE, com início em 08/09/2020 e término em 18/12/2020.

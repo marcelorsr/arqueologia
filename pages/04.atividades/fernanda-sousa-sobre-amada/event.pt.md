@@ -1,7 +1,6 @@
 ---
 title: 'Palestra "E quando esse amor pode te destruir?"'
 media_order: 'Fernanda.jpg,Portrait of Toni Morrison by © Timothy Greenfield-Sanders.jpg,Amada.jpg,Beloved.jpg'
-date: '13-06-2020 03:59'
 taxonomy:
     category:
         - Palestra
@@ -10,8 +9,6 @@ hide_hypothesis: true
 event:
     start: '25-06-2020 17:00'
     end: '25-06-2020 20:00'
-    location: Online
-author: 'Marcelo R. S. Ribeiro'
 ---
 
 Projeto #Anarqueológicas, com transmissão ao vivo.

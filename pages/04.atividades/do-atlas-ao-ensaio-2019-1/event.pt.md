@@ -1,6 +1,5 @@
 ---
 title: 'Do atlas ao ensaio (2019-1)'
-date: '12-06-2020 00:44'
 taxonomy:
     category:
         - Reunião
@@ -13,7 +12,5 @@ event:
     freq: weekly
     until: '24-06-2019 20:00'
     location: 'Faculdade de Comunicação da UFBA'
-author: 'Marcelo R. S. Ribeiro'
 ---
 
-Your page content goes here.

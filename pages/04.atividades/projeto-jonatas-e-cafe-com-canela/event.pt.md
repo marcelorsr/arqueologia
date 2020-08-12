@@ -1,8 +1,5 @@
 ---
 title: 'Discussão sobre Café com Canela & Projeto de pesquisa de Jônatas Pereira'
-published: true
-date: '22-07-2020 10:00'
-publish_date: '22-06-2020 10:00'
 taxonomy:
     category:
         - Reunião
@@ -11,8 +8,6 @@ hide_hypothesis: true
 event:
     start: '06-07-2020 17:00'
     end: '06-07-2020 20:00'
-    location: Online
-author: 'Marcelo R. S. Ribeiro'
 ---
 
 Reunião online por meio de videoconferência.

@@ -1,6 +1,5 @@
 ---
 title: 'O atlas como forma, método e deriva (2018-2)'
-date: '12-06-2020 00:37'
 taxonomy:
     category:
         - Reunião
@@ -22,6 +21,5 @@ event:
         -
             date: '2018-12-04'
     location: 'Faculdade de Comunicação da UFBA'
-author: 'Marcelo R. S. Ribeiro'
 ---
 

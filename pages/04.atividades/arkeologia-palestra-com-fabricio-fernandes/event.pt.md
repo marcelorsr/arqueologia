@@ -1,8 +1,6 @@
 ---
 title: 'Palestra "Arkeologia: fazer correr os riscos na experiência com arquivos"'
 media_order: IMG_5515.jpg
-date: '22-06-2020 21:50'
-publish_date: '22-06-2020 21:50'
 taxonomy:
     category:
         - Palestra
@@ -11,7 +9,6 @@ hide_hypothesis: true
 event:
     start: '08-07-2020 19:00'
     end: '08-07-2020 21:00'
-    location: Online
 ---
 
 Projeto #Anarqueológicas, com transmissão ao vivo.

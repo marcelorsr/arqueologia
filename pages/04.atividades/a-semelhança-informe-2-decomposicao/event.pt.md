@@ -13,4 +13,4 @@ author: 'Marcelo R. S. Ribeiro'
 
 Reunião online por meio de videoconferência.
 
-Conversa sobre um trecho da parte "II. Antítese: as 'formas concretas da desproporção', ou a decomposição do antropomorfismo" (p. 45–94), do livro _A semelhança informe ou O gaio saber visual segundo Georges Bataille_, de Georges Didi-Huberman (Rio de Janeiro: Editora Contraponto, 2015).
+Conversa sobre um trecho da parte "II. Antítese: as 'formas concretas da desproporção', ou a decomposição do antropomorfismo" (p. 45–102), do livro _A semelhança informe ou O gaio saber visual segundo Georges Bataille_, de Georges Didi-Huberman (Rio de Janeiro: Editora Contraponto, 2015).

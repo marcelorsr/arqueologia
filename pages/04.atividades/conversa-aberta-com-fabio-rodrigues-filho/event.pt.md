@@ -1,8 +1,6 @@
 ---
 title: 'Conversa aberta com Fabio Rodrigues Filho'
 media_order: Cartaz-chão.jpg
-date: '11-06-2020 19:30'
-publish_date: '11-06-2020 19:30'
 taxonomy:
     category:
         - 'Conversa aberta'
@@ -11,8 +9,6 @@ hide_hypothesis: true
 event:
     start: '17-06-2020 17:00'
     end: '17-06-2020 20:00'
-    location: Online
-author: 'Marcelo R. S. Ribeiro'
 ---
 
 Projeto #Anarqueológicas, com transmissão ao vivo.

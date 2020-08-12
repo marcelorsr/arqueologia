@@ -1,6 +1,5 @@
 ---
 title: 'Reunião sobre Afrotopia, 25, Wallay'
-date: '13-06-2020 03:59'
 taxonomy:
     category:
         - Reunião
@@ -9,8 +8,6 @@ hide_hypothesis: true
 event:
     start: '22-06-2020 17:00'
     end: '22-06-2020 20:00'
-    location: Online
-author: 'Marcelo R. S. Ribeiro'
 ---
 
 Reunião online por meio de videoconferência.

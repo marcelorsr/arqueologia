@@ -1,16 +1,13 @@
 ---
 title: 'O cinema de Jia Zhangke (2019)'
-date: '25-05-2019 18:00'
 taxonomy:
     category:
         - "Curso livre"
-hide_git_sync_repo_link: false
-hide_hypothesis: false
+hide_git_sync_repo_link: true
+hide_hypothesis: true
 event:
     start: '20-05-2019 09:00'
     end: '24-05-2019 12:00'
-    location: Online
-author: 'Marcelo R. S. Ribeiro'
 ---
 
 Curso livre sobre o cinema de Jia Zhangke

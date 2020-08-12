@@ -1,6 +1,5 @@
 ---
 title: 'Memórias da escravidão e resistência (2019-2)'
-date: '12-06-2020 00:57'
 taxonomy:
     category:
         - Reunião
@@ -18,7 +17,4 @@ event:
         -
             date: '2019-10-28'
     location: 'Faculdade de Comunicação da UFBA'
-author: 'Marcelo R. S. Ribeiro'
 ---
-
-Your page content goes here.

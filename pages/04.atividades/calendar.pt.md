@@ -1,8 +1,8 @@
 ---
 title: Atividades
 published: true
-hide_git_sync_repo_link: false
-hide_hypothesis: false
+hide_git_sync_repo_link: true
+hide_hypothesis: true
 content:
     items:
         '@taxonomy':
@@ -15,7 +15,6 @@ content:
         dir: dsc
     limit: '10'
     pagination: true
-author: 'Marcelo R. S. Ribeiro'
 ---
 
 As reuniões semanais do grupo ocorrem, a princípio, durante os períodos letivos da UFBA. Atualmente, essas reuniões semanais são toda segunda, a partir das 17h.

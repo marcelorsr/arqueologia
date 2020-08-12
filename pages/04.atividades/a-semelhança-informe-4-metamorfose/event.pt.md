@@ -12,4 +12,4 @@ event:
 
 Reunião online por meio de videoconferência.
 
-Conversa sobre um trecho da parte "III. Sintoma: o 'desenvolvimento dialético de fatos tão concretos quanto as formas visíveis'" (p. 197-263), do livro _A semelhança informe ou O gaio saber visual segundo Georges Bataille_, de Georges Didi-Huberman (Rio de Janeiro: Editora Contraponto, 2015).
+Conversa sobre trecho da parte "III. Sintoma: o 'desenvolvimento dialético de fatos tão concretos quanto as formas visíveis'" (p. 197-263), do livro _A semelhança informe ou O gaio saber visual segundo Georges Bataille_, de Georges Didi-Huberman (Rio de Janeiro: Editora Contraponto, 2015).

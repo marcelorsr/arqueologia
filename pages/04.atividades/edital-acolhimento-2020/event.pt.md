@@ -14,4 +14,4 @@ event:
 
 Em 12/08/2020:
 
-[Edital para Acolhimento de Integrantes 02-2020.pdf](Edital%20para%20Acolhimento%20de%20Integrantes%20%2002-2020.pdf)
+[Edital para Acolhimento de Integrantes 02-2020](Edital%20para%20Acolhimento%20de%20Integrantes%2002-2020.pdf)

@@ -1,16 +1,15 @@
 ---
-title: 'A semelhança informe, 3: desastre'
+title: 'A semelhança informe, 5: dialética'
 taxonomy:
     category:
         - Reunião
 hide_git_sync_repo_link: true
 hide_hypothesis: true
 event:
-    start: '05-10-2020 17:00'
-    end: '05-10-2020 20:00'
-author: 'Marcelo R. S. Ribeiro'
+    start: '09-11-2020 17:00'
+    end: '09-11-2020 20:00'
 ---
 
 Reunião online por meio de videoconferência.
 
-Conversa sobre um trecho da parte "II. Antítese: as 'formas concretas da desproporção', ou a decomposição do antropomorfismo" (p. 102-178), do livro _A semelhança informe ou O gaio saber visual segundo Georges Bataille_, de Georges Didi-Huberman (Rio de Janeiro: Editora Contraponto, 2015).
+Conversa sobre um trecho da parte "III. Sintoma: o 'desenvolvimento dialético de fatos tão concretos quanto as formas visíveis'" (p. 197-263), do livro _A semelhança informe ou O gaio saber visual segundo Georges Bataille_, de Georges Didi-Huberman (Rio de Janeiro: Editora Contraponto, 2015).

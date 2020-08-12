@@ -10,8 +10,6 @@ hide_hypothesis: true
 event:
     start: '09-08-2020 08:00'
     end: '16-08-2020 23:59'
-    location: Online
-author: 'Marcelo R. S. Ribeiro'
 ---
 
 Em 09/08/2020:

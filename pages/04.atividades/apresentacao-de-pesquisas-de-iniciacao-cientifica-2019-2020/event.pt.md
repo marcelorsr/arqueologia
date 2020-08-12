@@ -8,7 +8,6 @@ hide_hypothesis: true
 event:
     start: '24-08-2020 17:00'
     end: '24-08-2020 20:00'
-author: 'Marcelo R. S. Ribeiro'
 ---
 
 Reunião online por meio de videoconferência.

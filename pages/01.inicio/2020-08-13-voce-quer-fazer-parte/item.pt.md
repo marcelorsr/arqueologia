@@ -4,6 +4,7 @@ media_order: 'Arqueologia do sensível [fundo roxo].jpg'
 date: '13-08-2020 19:31'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
+visible: false
 hero_classes: 'hero-fullscreen overlay-dark text-light'
 hero_image: 'Arqueologia do sensível [fundo roxo].jpg'
 blog_url: /blog

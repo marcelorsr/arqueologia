@@ -54,8 +54,6 @@ form:
 
 Estamos em Salvador da Bahia, na Faculdade de Comunicação da UFBA. Abaixo, você encontra nossa localização e um formulário para envio de mensagens.
 
-![Imagem retangular de fundo roxo ou vinho, com diferentes textos escritos: em amarelo, "Grupo de pesquisa e estudos"; em rosa, "Arqueologia do sensível"; em branco, "Faculdade de Comunicação da UFBA".](Arqueologia%20do%20sens%C3%ADvel%20%5Bfundo%20roxo%5D.jpg?classes=s-rounded)
-
 ## Onde estamos
 
 [map-leaflet lat=-13.00145 lng=-38.51027 zoom=15 mapname=sede]

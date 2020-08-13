@@ -3,6 +3,11 @@ title: 'Encontros dramáticos anarqueológicos: Jogos na hora da sesta'
 media_order: 'Roma Mahieu.jpg'
 published: true
 date: '12-06-2020 01:53'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - '#Anarqueológicas'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
 hero_classes: 'hero-fullscreen overlay-dark text-light'

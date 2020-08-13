@@ -2,6 +2,11 @@
 title: 'Você quer fazer parte?'
 media_order: 'Arqueologia do sensível [fundo roxo].jpg'
 date: '13-08-2020 19:31'
+taxonomy:
+    category:
+        - blog
+    author:
+        - 'Marcelo R. S. Ribeiro'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
 visible: false

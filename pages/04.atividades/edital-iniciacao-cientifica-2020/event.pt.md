@@ -1,6 +1,6 @@
 ---
 title: 'Edital de Seleção para Iniciação Científica 01/2020'
-media_order: 'Edital de Seleção para Iniciação Científica 01-2020.pdf,Resultado - Primeiro período - Edital de Seleção para Iniciação Científica 01-2020.pdf'
+media_order: 'Edital de Seleção para Iniciação Científica 01-2020.pdf,Resultado - Primeiro período - Edital de Seleção para Iniciação Científica 01-2020.pdf,Resultado - Primeiro período - Edital de Seleção para Iniciação Científica 01-2020.pdf,Resultado provisório - Segundo período - Edital de Seleção para Iniciação Científica 01-2020.pdf'
 date: '09-08-2020 01:40'
 taxonomy:
     category:
@@ -22,3 +22,8 @@ Em 10/08/2020:
 [Resultado - Primeiro período - Edital de Seleção para Iniciação Científica 01-2020](Resultado%20-%20Primeiro%20peri%CC%81odo%20-%20Edital%20de%20Selec%CC%A7a%CC%83o%20para%20Iniciac%CC%A7a%CC%83o%20Cienti%CC%81fica%2001-2020.pdf)
 
 Observação: O plano de trabalho escolhido para a bolsa do CNPq é "Memórias da escravidão e resistência no cinema e em outros meios: estudo comparativo em torno de imagens dos navios negreiros". Dessa forma, permanecem disponíveis os planos de trabalho "Memórias da escravidão e resistência no cinema e em outros meios: estudo analítico no contexto dos cinemas africanos contemporâneos" e "Memórias da escravidão e resistência no cinema e em outros meios: estudos comparativos em arte e cultura visual" para o segundo período de inscrições (vide Edital acima).
+
+Em 17/08/2020:
+
+[Resultado provisório - Segundo período - Edital de Seleção para Iniciação Científica 01-2020.pdf](Resultado%20proviso%CC%81rio%20-%20Segundo%20peri%CC%81odo%20-%20Edital%20de%20Selec%CC%A7a%CC%83o%20para%20Iniciac%CC%A7a%CC%83o%20Cienti%CC%81fica%2001-2020.pdf)
+

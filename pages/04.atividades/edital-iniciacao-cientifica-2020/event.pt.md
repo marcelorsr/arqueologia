@@ -26,4 +26,3 @@ Observação: O plano de trabalho escolhido para a bolsa do CNPq é "Memórias d
 Em 17/08/2020:
 
 [Resultado provisório - Segundo período - Edital de Seleção para Iniciação Científica 01-2020.pdf](Resultado%20proviso%CC%81rio%20-%20Segundo%20peri%CC%81odo%20-%20Edital%20de%20Selec%CC%A7a%CC%83o%20para%20Iniciac%CC%A7a%CC%83o%20Cienti%CC%81fica%2001-2020.pdf)
-

@@ -1,7 +1,7 @@
 ---
 title: 'Polly Di'
 media_order: Polly.jpg
-image_align: left
+image_align: right
 published: true
 hide_git_sync_repo_link: true
 hide_hypothesis: false

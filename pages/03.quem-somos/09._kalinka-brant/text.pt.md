@@ -1,7 +1,7 @@
 ---
 title: 'Kalinka Brant'
 media_order: Foto_Kalinka_1.jpg
-image_align: left
+image_align: right
 published: true
 hide_git_sync_repo_link: false
 hide_hypothesis: false

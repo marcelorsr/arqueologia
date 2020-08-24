@@ -1,7 +1,7 @@
 ---
 title: 'Ana Camila Esteves'
 media_order: 'Ana Camila.jpg'
-image_align: right
+image_align: left
 published: true
 hide_git_sync_repo_link: true
 hide_hypothesis: false

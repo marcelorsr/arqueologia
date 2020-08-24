@@ -1,6 +1,6 @@
 ---
 title: 'Monique Feitosa'
-media_order: MoniqueFetosa.gif
+media_order: MoniqueFeitosa.jpg
 image_align: left
 published: true
 hide_git_sync_repo_link: true

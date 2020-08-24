@@ -1,6 +1,5 @@
 ---
 title: 'Alexandra Helena'
-media_order: AlexandraHelena.gif
 image_align: right
 published: true
 hide_git_sync_repo_link: true

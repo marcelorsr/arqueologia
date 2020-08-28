@@ -12,6 +12,7 @@ taxonomy:
         - 'Marcelo R. S. Ribeiro'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
+visible: false
 hero_classes: 'hero-fullscreen overlay-dark text-light'
 hero_image: IMG_20200505_234958.jpg
 blog_url: /blog
@@ -27,7 +28,7 @@ recaptchacontact:
     enabled: false
 ---
 
-Recomendação comentada do livro O que você vê?, de Marie José Mondzain.
+Uma recomendação comentada do livro O que você vê?, de Marie José Mondzain.
 
 [plugin:youtube](https://www.youtube.com/watch?v=nxPaWHprVXQ)
 

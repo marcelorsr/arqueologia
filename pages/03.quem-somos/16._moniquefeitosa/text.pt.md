@@ -12,6 +12,6 @@ menu: 'Easy Content'
 
 !!! Iniciação científica
 
-Monique Silva Feitosa Alves dos Santos é graduanda no Bacharelado Interdisciplinar em Artes, com área de concentração em Cinema e Audiovisual, e voluntária no PIBIC 2020, com plano de trabalho sobre abordagens em arte e cultura visual, no projeto **Memórias da escravidão e resistência no cinema e em outros meios: abordagens africanas e afrodiaspóricas**.
+Monique Silva Feitosa Alves dos Santos é Bacharel em Direito (2013), fotógrafa e graduanda em Bacharelado Interdisciplinar em Artes com habilitação em Cinema e Audiovisual (IHAC-UFBA). Voluntária no PIBIC 2020, no projeto **Memórias da escravidão e resistência no cinema e em outros meios: abordagens africanas e afrodiaspóricas**, com plano de trabalho sobre abordagens em arte e cultura visual.
 
 [Currículo Lattes](http://lattes.cnpq.br/7150755204641797?classes=btn,btn-primary,btn-lg)

@@ -23,7 +23,7 @@ feed:
 author: 'Marcelo R. S. Ribeiro'
 ---
 
-_Por Marcelo R. S. Ribeiro_
+_Por Marcelo R. S. Ribeiro_ (Texto atualizado em 02/09/2020)
 
 Acontece [na próxima quarta-feira, 2 de setembro, às 19h, o lançamento do livro _Do inimaginável_](https://www.facebook.com/events/619350069001133/), que foi publicado pela Editora UFG em dezembro de 2019 e corresponde a uma versão revisada da parte inédita da minha tese de doutorado, defendida em 2016. Decidi organizar o evento por conta própria, uma vez que a eclosão e a persistência da pandemia e de seus efeitos aterradores têm dificultado a divulgação e a circulação da obra, por uma série de razões. Abaixo você pode assistir ao [_teaser_](https://vimeo.com/449719036) que fiz pra essa ocasião:
 
@@ -33,6 +33,6 @@ Acontece [na próxima quarta-feira, 2 de setembro, às 19h, o lançamento do liv
 
 O evento de lançamento terá a forma de uma conversa aberta, com [transmissão ao vivo](https://youtu.be/XvMraepOT3M) pelo [YouTube do grupo](https://www.youtube.com/arqueologiadosensivel). Vou fazer uma apresentação um pouco mais detalhada do livro e conversar em seguida com quem tiver interesse em participar, além de sortear dois exemplares. Para participar do sorteio, basta seguir o [Arqueologia do sensível no Instagram](https://www.instagram.com/arqueologiadosensivel/), curtindo e marcando duas pessoas nos comentários para [esse post](https://www.instagram.com/p/CEXPy0BFFxc/).
 
-Em breve, divulgarei mais informações sobre formas de acesso direto, para quem quiser participar da conversa por áudio e vídeo. Quem preferir, pode participar pelo chat da [transmissão ao vivo](https://youtu.be/XvMraepOT3M), pois pretendo também ir acompanhando a conversa que se desenrolar por ali, se houver.
+~~Em breve, divulgarei mais informações sobre formas de acesso direto~~ A partir das 19h, para quem quiser participar da conversa por áudio e vídeo, basta acessar [esta sala](https://8x8.vc/Livro-Do-Inimaginavel-02-09-2020). Quem preferir, pode participar pelo chat da [transmissão ao vivo](https://youtu.be/XvMraepOT3M), pois pretendo também ir acompanhando a conversa que se desenrolar por ali, se houver.
 
 Fiz também um vídeo menos formal e bastante inicial de apresentação do lançamento e do livro, explicando mais sobre [por que decidi fazer esse lançamento online](https://www.instagram.com/tv/CEXxoc1AzDB/).

@@ -30,3 +30,6 @@ Em 17/08/2020:
 Em 18/08/2020:
 
 [Resultado detinitivo - Edital de Seleção para Iniciação Científica 01-2020](Resultado%20detinitivo%20-%20Edital%20de%20Selec%CC%A7a%CC%83o%20para%20Iniciac%CC%A7a%CC%83o%20Cienti%CC%81fica%2001-2020.pdf)
+
+Em 11/09/2020:
+Como o Conselho Nacional de Desenvolvimento Científico – CNPq, confirmou a ampliação do número de bolsas PIBIC/UFBA para o período de 2020/2021, a bolsa UFBA prevista no Edital foi convertida em bolsa CNPq, sem qualquer alteração em relação no processo seletivo e em seu resultado definitivo.

@@ -1,5 +1,5 @@
 ---
-title: 'A semelhança informe, 5: dialética'
+title: 'A semelhança informe, 5'
 taxonomy:
     category:
         - Reunião

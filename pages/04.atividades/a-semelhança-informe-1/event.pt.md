@@ -1,5 +1,5 @@
 ---
-title: 'A semelhança informe, 1: dilaceração'
+title: 'A semelhança informe, 1'
 taxonomy:
     category:
         - Reunião

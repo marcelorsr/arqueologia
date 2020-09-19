@@ -18,7 +18,7 @@ author: 'Marcelo R. S. Ribeiro'
 
 _Por Marcelo R. S. Ribeiro_
 
-Na segunda, 21/09, a partir das 18h, ocorre mais uma edição do projeto #Anarqueológicas, com a Conversa aberta com Caroline Valansi.
+Na [segunda, 21/09, a partir das 18h](http://www.arqueologiadosensivel.ufba.br/atividades/conversa-aberta-com-caroline-valansi), ocorre mais uma edição do projeto #Anarqueológicas, com a Conversa aberta com Caroline Valansi.
 
 > Caroline Valansi é artista visual, professora e trabalha com saúde mental. Sua produção artística transita entre a palavra, o espaço e a ficção. Suas obras sempre foram enraizadas em seu forte interesse em traços coletivos e histórias íntimas. Caroline utiliza materiais familiares em sua pesquisa: fotos de salas de cinemas, velhos filmes pornográficos, imagens encontradas da internet e suas próprias fotografias, colagens e desenhos e, juntos, somam uma ampla exploração de representações da sexualidade feminina contemporânea.
 

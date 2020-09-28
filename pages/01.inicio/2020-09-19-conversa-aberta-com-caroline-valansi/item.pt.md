@@ -4,6 +4,7 @@ media_order: '16 Cine-desejo.jpg,03 Imagens submersas.jpg,04 Arqueologia do sens
 date: '19-09-2020 12:51'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
+visible: false
 hero_classes: 'hero-fullscreen overlay-dark text-light'
 hero_image: '16 Cine-desejo.jpg'
 blog_url: /blog

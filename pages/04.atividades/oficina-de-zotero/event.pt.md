@@ -52,7 +52,9 @@ Caso você deseje tentar seguir a recomendação acima, isto é, caso deseje ten
     - Apresentação geral da interface do aplicativo e das principais funcionalidades (nível de dificuldade: básico)
         - Coleções
         - Grupos
+        - Fontes [Feeds]
         - Itens
+        - Pesquisas salvas
     - Configuração do Zotero e da extensão de navegador para registro de dados e captura arquivos de artigos, livros e outros materiais (nível de dificuldade: intermediário)
         - Exemplos
             - Captura de dados de artigos
@@ -68,7 +70,7 @@ Caso você deseje tentar seguir a recomendação acima, isto é, caso deseje ten
             - Outros casos
 - Parte 2 (30 min.): Organização, anotações, busca e armazenamento
     - Criação de coleções, uso de etiquetas e área de anotações: possibilidades combinatórias (nível de dificuldade: intermediário)
-    - Busca básica e busca avançada (nível de dificuldade: intermediário)
+    - Pesquisa básica e pesquisa avançada (nível de dificuldade: intermediário)
     - Armazenamento e formas de acesso remoto ao material salvo no Zotero (nível de dificuldade: avançado)
         - Não salve sua base de dados (database) do Zotero em uma pasta com sincronização em nuvem, a não ser que seja apenas como uma entre outras formas de backup. A recomendação está no site: "You absolutely should not store your Zotero database in a cloud-syncing
         folder (e.g., Dropbox, Google Drive, OneDrive). This will lead to data

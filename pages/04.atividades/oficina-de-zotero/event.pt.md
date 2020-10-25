@@ -28,9 +28,17 @@ Certifique-se de realizar pelo menos os três passos acima indicados. Para acomp
 
 A oficina terá como foco apresentar o Zotero de forma introdutória, identificando suas funcionalidades principais para organização de referências bibliográficas, com a descrição do fluxo de trabalho que conduz do registro das referências no aplicativo até seu uso em citações diretas ou indiretas em processadores de texto, com aplicação de formatação configurável e criação automática das referências bibliográficas.
 
-### Referência inicial para instalação do Zotero
+### Referências iniciais para instalação do Zotero
 
 Zotero do Zero - Tutorial de instalação do Zotero no Windows 10, por [Eric Brasil](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/aula3-zotero.html): [https://www.youtube.com/watch?v=CPdhyKboKC0](https://www.youtube.com/watch?v=CPdhyKboKC0)
+
+#### Instalando o Zotero em um Mac
+
+[plugin:youtube](https://www.youtube.com/watch?v=YcNHPAgW9BA)
+
+#### Instalando o Zotero em um computador com Windows 10
+
+[plugin:youtube](https://www.youtube.com/watch?v=oUS4Qd-mcjM)
 
 ## Durante a oficina
 

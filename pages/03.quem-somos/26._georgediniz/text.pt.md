@@ -10,7 +10,9 @@ menu: 'Easy Content'
 
 ## George Diniz Teixeira
 
-!!! Iniciação científica
+!!! Iniciação científica 2018-2019
+
+! Linha de pesquisa: Imagem e história
 
 ! Egresso
 

@@ -28,9 +28,17 @@ Certifique-se de realizar pelo menos os três passos acima indicados. Para acomp
 
 A oficina terá como foco apresentar o Zotero de forma introdutória, identificando suas funcionalidades principais para organização de referências bibliográficas, com a descrição do fluxo de trabalho que conduz do registro das referências no aplicativo até seu uso em citações diretas ou indiretas em processadores de texto, com aplicação de formatação configurável e criação automática das referências bibliográficas.
 
-### Referência inicial para instalação do Zotero
+### Referências iniciais para instalação do Zotero
 
 Zotero do Zero - Tutorial de instalação do Zotero no Windows 10, por [Eric Brasil](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/aula3-zotero.html): [https://www.youtube.com/watch?v=CPdhyKboKC0](https://www.youtube.com/watch?v=CPdhyKboKC0)
+
+#### Instalando o Zotero em um Mac
+
+[plugin:youtube](https://www.youtube.com/watch?v=YcNHPAgW9BA)
+
+#### Instalando o Zotero em um computador com Windows 10
+
+[plugin:youtube](https://www.youtube.com/watch?v=oUS4Qd-mcjM)
 
 ## Durante a oficina
 
@@ -44,7 +52,9 @@ Caso você deseje tentar seguir a recomendação acima, isto é, caso deseje ten
     - Apresentação geral da interface do aplicativo e das principais funcionalidades (nível de dificuldade: básico)
         - Coleções
         - Grupos
+        - Fontes [Feeds]
         - Itens
+        - Pesquisas salvas
     - Configuração do Zotero e da extensão de navegador para registro de dados e captura arquivos de artigos, livros e outros materiais (nível de dificuldade: intermediário)
         - Exemplos
             - Captura de dados de artigos
@@ -60,7 +70,7 @@ Caso você deseje tentar seguir a recomendação acima, isto é, caso deseje ten
             - Outros casos
 - Parte 2 (30 min.): Organização, anotações, busca e armazenamento
     - Criação de coleções, uso de etiquetas e área de anotações: possibilidades combinatórias (nível de dificuldade: intermediário)
-    - Busca básica e busca avançada (nível de dificuldade: intermediário)
+    - Pesquisa básica e pesquisa avançada (nível de dificuldade: intermediário)
     - Armazenamento e formas de acesso remoto ao material salvo no Zotero (nível de dificuldade: avançado)
         - Não salve sua base de dados (database) do Zotero em uma pasta com sincronização em nuvem, a não ser que seja apenas como uma entre outras formas de backup. A recomendação está no site: "You absolutely should not store your Zotero database in a cloud-syncing
         folder (e.g., Dropbox, Google Drive, OneDrive). This will lead to data

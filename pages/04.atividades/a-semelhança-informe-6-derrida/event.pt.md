@@ -12,6 +12,4 @@ event:
 
 Reunião online por meio de videoconferência.
 
-Conversa sobre trecho da parte "III. Sintoma: o 'desenvolvimento dialético de fatos tão concretos quanto as formas visíveis'" (intervalo de páginas a definir), do livro *A semelhança informe ou O gaio saber visual segundo Georges Bataille*, de Georges Didi-Huberman (Rio de Janeiro: Editora Contraponto, 2015).
-
-Leitura adicional: diálogo "Rastro e arquivo, imagem e arte", com Jacques Derrida e outros
+Conversa sobre diálogo "Rastro e arquivo, imagem e arte", com Jacques Derrida e outros, e trecho da parte "III. Sintoma: o 'desenvolvimento dialético de fatos tão concretos quanto as formas visíveis'" (p. 199-215, seguindo se possível até p. 233), do livro *A semelhança informe ou O gaio saber visual segundo Georges Bataille*, de Georges Didi-Huberman (Rio de Janeiro: Editora Contraponto, 2015).

@@ -26,9 +26,9 @@ Este plano de trabalho aborda as representações e abordagens da escravidão e 
 
 ---
 
-### Pesquisa de iniciação científica de Alexandra Batista
+### Pesquisa de iniciação científica de Monique Feitosa
 
-## Plano de trabalho "Memórias da escravidão e resistência no cinema e em outros meios: estudo comparativo em torno de imagens dos navios negreiros"
+## Plano de trabalho "Memórias da escravidão e resistência no cinema e em outros meios: estudos comparativos em arte e cultura visual"
 
 ### Resumo do projeto de pesquisa "Memórias da escravidão e resistência no cinema e em outros meios: abordagens africanas e afrodiaspóricas"
 

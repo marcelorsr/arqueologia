@@ -1,5 +1,5 @@
 ---
-title: 'Pesquisas em andamento: Alexandra Batista (PIBIC) & Monique Feitosa (PIBIC)'
+title: 'Pesquisas em andamento: Rogério Félix (PBMS) & Dalila da Silva (Edital de Acolhimento)'
 taxonomy:
     category:
         - Reunião

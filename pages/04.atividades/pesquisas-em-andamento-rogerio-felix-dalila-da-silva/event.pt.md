@@ -26,4 +26,8 @@ Considerando a questão geral do projeto de pesquisa em que se insere, relativo 
 
 ---
 
-## Pesquisa independente em acolhimento de Dalila da Silva
+## Pesquisa independente em acolhimento de Dalila da Silva: Cartografia de afetos para construção de memória perambulante
+
+### Resumo
+
+O projeto é uma investigação teórico-artística que instiga pesquisas rítmicas nos campos da performance e do território e como esses mecanismos de ação podem contribuir para a elaboração de estratégias de cura se apropriando da arte enquanto retomada de consciência sobre o corpo.

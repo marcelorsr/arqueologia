@@ -5,6 +5,8 @@ hide_hypothesis: false
 author: 'Marcelo R. S. Ribeiro'
 ---
 
+Canal Anarqueológicas no Telegram: [https://t.me/arqueologiadosensivel](https://t.me/arqueologiadosensivel)
+
 Derivas anarqueológicas - Substack: [https://arqueologiadosensivel.substack.com/](https://arqueologiadosensivel.substack.com/)
 
 YouTube: [https://www.youtube.com/arqueologiadosensivel](https://www.youtube.com/arqueologiadosensivel)

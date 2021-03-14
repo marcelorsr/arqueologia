@@ -18,8 +18,6 @@ Reunião online por meio de videoconferência.
 
 3. Eventos e publicações: chamadas para trabalhos
 
-    [XVII ENECULT - Encontro de Estudos Multidisciplinares em Cultura](http://www.cult.ufba.br/enecult/)
-
 4. Discussão do capítulo "Rearquivamento ficcional: o arquivo revisitado", do livro *[Do inimaginável](https://incinerrante.com/livros/do-inimaginavel/)*, de Marcelo Ribeiro (p. 77-104).
 
     Referência completa:

@@ -18,4 +18,4 @@ Reunião online por meio de videoconferência.
 
 3. Eventos e publicações: chamadas para trabalhos
 
-4. Discussão sobre as sesquisas em andamento: Marcelo Costa e Dalila da Silva
+4. Discussão sobre as pesquisas em andamento: Marcelo Costa e Dalila da Silva

@@ -43,9 +43,10 @@ Certifique-se de realizar pelo menos os passos acima indicados. Caso queira, exp
 Caso deseje tentar usar o Zotero ao longo da oficina, recomenda-se que se concentre nas atividades mais simples, de menor nível de dificuldade. Abaixo, os itens principais de cada uma das três partes da oficina estão identificados segundo seu nível de dificuldade básico, intermediário ou avançado. Entre outras coisas, essa diferenciação significa o seguinte: itens com nível de dificuldade básico são fáceis de realizar ao longo da oficina; itens com nível de dificuldade intermediário podem ser mais difíceis de realizar ao longo da oficina em sua integralidade, podendo-se buscar sua realização parcial ou adaptada; itens com nível de dificuldade avançado envolvem recursos mais complexos e exigem mais tempo para serem realizados, sendo recomendável apenas o acompanhamento da oficina no que concerne a esses itens. Seja como for, tudo isso são apenas recomendações. Fique à vontade para acompanhar como preferir, dentro de suas condições, possibilidades e limites técnicos e de outras ordens.
 
 ## Conteúdo programático
+
 ### Parte 1 (20-30 min.): A definição de tema e problema de pesquisa e a organização de assuntos e questões por meio das funcionalidades de organização de coleções e uso de etiquetas do Zotero
-- #Pesquisa Começando o processo de pesquisa: diferenças e relações entre tema e problema de pesquisa
-- #Zotero Apresentação geral da interface do aplicativo e das principais funcionalidades: itens, criação de coleções (nível de dificuldade: básico), uso de etiquetas, área de anotações e possibilidades combinatórias (nível de dificuldade: intermediário)
+- Pesquisa - Começando o processo de pesquisa: diferenças e relações entre tema e problema de pesquisa
+- Zotero - Apresentação geral da interface do aplicativo e das principais funcionalidades: itens, criação de coleções (nível de dificuldade: básico), uso de etiquetas, área de anotações e possibilidades combinatórias (nível de dificuldade: intermediário)
     - Itens
     - Coleções
     - Etiquetas
@@ -54,8 +55,8 @@ Caso deseje tentar usar o Zotero ao longo da oficina, recomenda-se que se concen
     - Busca
 
 ### Parte 2 (40-50 min.): Estratégias básicas de identificação de referências fundamentais e levantamento bibliográfico e o uso do Zotero para coletar, catalogar e organizar um banco de dados e um conjunto de arquivos de textos
-- #Pesquisa Explorando o campo de pesquisa: estratégias, caminhos e derivas de descoberta de referências
-- #Zotero Configuração do Zotero e da extensão de navegador para registro de dados e captura arquivos de artigos, livros e outros materiais (nível de dificuldade: básico), que podem ser gerenciados por meio da extensão ZotFile para acesso remoto e sincronização entre dispositivos ([http://www.zotfile.com/](http://www.zotfile.com/)) (nível de dificuldade: intermediário-avançado)
+- Pesquisa - Explorando o campo de pesquisa: estratégias, caminhos e derivas de descoberta de referências
+- Zotero - Configuração do Zotero e da extensão de navegador para registro de dados e captura arquivos de artigos, livros e outros materiais (nível de dificuldade: básico), que podem ser gerenciados por meio da extensão ZotFile para acesso remoto e sincronização entre dispositivos ([http://www.zotfile.com/](http://www.zotfile.com/)) (nível de dificuldade: intermediário-avançado)
     - Exemplos
         - Captura de dados de artigos
             - Via DOI
@@ -71,8 +72,8 @@ Caso deseje tentar usar o Zotero ao longo da oficina, recomenda-se que se concen
     - Além das coleções e etiquetas: estabelecendo relações entre itens
 
 ### Parte 3 (30-40 min.): Fichamentos (com destaque para fichamentos de citações), revisões críticas e engajamentos na escrita e o uso do Zotero para notas sobre referências e para auxiliar na inclusão de citações e bibliografias em arquivos de trabalho de processadores de texto
-- #Pesquisa A escrita como procedimento, trabalho de construção e desconstrução, montagem e remontagem
-- #Zotero Fluxo de trabalho integrado com processadores de texto: exportação de listas de bibliografia e de relatórios bibliográficos (nível de dificuldade: básico); usos do Zotero com processadores de texto: exemplos baseados em normas da ABNT com o uso do Word (nível de dificuldade: intermediário-avançado)
+- Pesquisa - A escrita como procedimento, trabalho de construção e desconstrução, montagem e remontagem
+- Zotero - Fluxo de trabalho integrado com processadores de texto: exportação de listas de bibliografia e de relatórios bibliográficos (nível de dificuldade: básico); usos do Zotero com processadores de texto: exemplos baseados em normas da ABNT com o uso do Word (nível de dificuldade: intermediário-avançado)
     - Definição e seleção de estilos de citação
     - Caixa de adição de citação: clássica ou atualizada?
     - Citações indiretas

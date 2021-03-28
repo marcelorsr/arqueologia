@@ -7,6 +7,7 @@ author: 'Marcelo R. S. Ribeiro'
 ---
 
 **Coordenador**: Marcelo R. S . Ribeiro
+
 **Período**: maio de 2017 a dezembro de 2019 (estendido até março de 2020 apenas para consolidação de resultados e apresentação de relatório)
 
 ### Resumo

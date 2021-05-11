@@ -2,7 +2,7 @@
 title: 'II Congresso Virtual da UFBA'
 taxonomy:
     category:
-        - Reunião
+        - Eventos
 hide_git_sync_repo_link: true
 hide_hypothesis: true
 event:

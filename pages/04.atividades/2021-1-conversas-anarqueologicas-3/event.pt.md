@@ -2,7 +2,9 @@
 title: 'Conversas Anarqueológicas - Ciclo 2021.1 - Segunda sessão'
 taxonomy:
     category:
-        - Reunião
+        - Palestra
+    tag:
+        - '#Anarqueológicas'
 hide_git_sync_repo_link: true
 hide_hypothesis: true
 event:

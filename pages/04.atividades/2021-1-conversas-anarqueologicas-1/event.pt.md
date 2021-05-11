@@ -3,6 +3,8 @@ title: 'Por uma demonologia warburguiana das imagens cinematográficas'
 taxonomy:
     category:
         - Palestra
+    tag:
+        - '#Anarqueológicas'
 hide_git_sync_repo_link: true
 hide_hypothesis: true
 event:

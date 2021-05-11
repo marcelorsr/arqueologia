@@ -14,25 +14,25 @@ São várias as linhas de ação do projeto Anarqueológicas:
 
 ### Conversas anarqueológicas
 
-Ciclo 2020.1
+#### Ciclo 2020.1
 
-1. Constelações fílmicas e arqueologia do sensível: conversa com Mariana Souto - https://www.youtube.com/watch?v=8uNvllLHHEc
+1. [Constelações fílmicas e arqueologia do sensível: conversa com Mariana Souto](https://www.youtube.com/watch?v=8uNvllLHHEc)
 
-2. Conversa aberta com Tila Chitunda - https://www.youtube.com/watch?v=qq9nyOOECXE
+2. [Conversa aberta com Tila Chitunda](https://www.youtube.com/watch?v=qq9nyOOECXE)
 
-3. Conversa aberta com Fábio Rodrigues Filho, a partir do filme Tudo que é apertado rasga - https://www.youtube.com/watch?v=_RfRlPDS9BM
+3. [Conversa aberta com Fábio Rodrigues Filho, a partir do filme Tudo que é apertado rasga](https://www.youtube.com/watch?v=_RfRlPDS9BM)
 
-4. Palestra "Amor, sofrimento e imaginação em Amada, de Toni Morrison", com Fernanda Sousa - https://www.youtube.com/watch?v=IZ4JSO0cOm0
+4. [Palestra "Amor, sofrimento e imaginação em Amada, de Toni Morrison", com Fernanda Sousa](https://www.youtube.com/watch?v=IZ4JSO0cOm0)
 
-5. Palestra "Arkeologia: fazer correr os riscos na experiência com arquivos", com Fabrício Fernandes - disponível em: https://www.youtube.com/watch?v=JKrQ3NU0auM
+5. [Palestra "Arkeologia: fazer correr os riscos na experiência com arquivos", com Fabrício Fernandes](https://www.youtube.com/watch?v=JKrQ3NU0auM)
 
-Ciclo 2020.2
+#### Ciclo 2020.2
 
-1. Conversa aberta com Caroline Valansi: arqueologia do sensível, cinema, corpo - https://www.youtube.com/watch?v=0Oe-DPqpyqo
+1. [Conversa aberta com Caroline Valansi: arqueologia do sensível, cinema, corpo](https://www.youtube.com/watch?v=0Oe-DPqpyqo)
 
-2. Conversa aberta com Marcelo D’Salete, a partir de Cumbe e Angola Janga - https://www.youtube.com/watch?v=cxrt3Uepr5g
+2. [Conversa aberta com Marcelo D’Salete, a partir de Cumbe e Angola Janga](https://www.youtube.com/watch?v=cxrt3Uepr5g)
 
-3. Palestra "af ec tos l l lacu nar e s: um estudo acerca da poética do arquivo e do impulso anarquívistico", com Gabriela Sá - https://www.youtube.com/watch?v=ZUTDyiIZmOk
+3. [Palestra "af ec tos l l lacu nar e s: um estudo acerca da poética do arquivo e do impulso anarquívistico", com Gabriela Sá](https://www.youtube.com/watch?v=ZUTDyiIZmOk)
 
 Ciclo 2021.1
 

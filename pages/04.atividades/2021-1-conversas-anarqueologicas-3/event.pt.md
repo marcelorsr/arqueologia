@@ -10,4 +10,6 @@ event:
     end: '10-06-2021 20:30'
 ---
 
-Em breve, confirmação de horário e mais informações!
+Palestra do ciclo 2021.1 das [Conversas Anarqueológicas](http://arqueologiadosensivel.ufba.br/projetos/extensao/anarqueologicas)
+
+Participação confirmada: Osmar Gonçalves (UFPE). Em breve, mais informações!

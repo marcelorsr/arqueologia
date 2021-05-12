@@ -1,5 +1,5 @@
 ---
-title: 'Conversas Anarqueológicas - Ciclo 2021.1 - Segunda sessão'
+title: 'Conversas Anarqueológicas - Ciclo 2021.1 - Terceira sessão'
 taxonomy:
     category:
         - Palestra

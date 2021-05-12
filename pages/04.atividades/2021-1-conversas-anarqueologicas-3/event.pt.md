@@ -14,4 +14,4 @@ event:
 
 Palestra do ciclo 2021.1 das [Conversas Anarqueológicas](http://arqueologiadosensivel.ufba.br/projetos/extensao/anarqueologicas)
 
-Participação confirmada: Osmar Gonçalves (UFPE). Em breve, mais informações!
+Participação confirmada: Osmar Gonçalves (UFC). Em breve, mais informações!

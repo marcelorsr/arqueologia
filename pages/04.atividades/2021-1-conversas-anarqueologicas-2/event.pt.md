@@ -14,4 +14,4 @@ event:
 
 Palestra do ciclo 2021.1 das [Conversas Anarqueológicas](http://arqueologiadosensivel.ufba.br/projetos/extensao/anarqueologicas)
 
-Participação confirmada: Manoel Gustavo (UEG)). Em breve, mais informações!
+Participação confirmada: Manoel Gustavo (UEG). Em breve, mais informações!

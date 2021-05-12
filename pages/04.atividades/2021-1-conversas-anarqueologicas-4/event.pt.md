@@ -1,5 +1,5 @@
 ---
-title: 'Conversas Anarqueológicas - Ciclo 2021.1 - Terceira sessão'
+title: 'Conversas Anarqueológicas - Ciclo 2021.1 - Quarta sessão'
 taxonomy:
     category:
         - Palestra
@@ -8,10 +8,10 @@ taxonomy:
 hide_git_sync_repo_link: true
 hide_hypothesis: true
 event:
-    start: '01-06-2021 17:30'
-    end: '01-06-2021 20:30'
+    start: '10-06-2021 17:30'
+    end: '10-06-2021 20:30'
 ---
 
 Palestra do ciclo 2021.1 das [Conversas Anarqueológicas](http://arqueologiadosensivel.ufba.br/projetos/extensao/anarqueologicas)
 
-Participação confirmada: Manoel Gustavo (UEG). Em breve, mais informações!
+Participação confirmada: Osmar Gonçalves (UFC). Em breve, mais informações!

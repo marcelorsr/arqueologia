@@ -21,9 +21,15 @@ Palestra de [Carol Almeida](http://foradequadro.com/) no ciclo 2021.1 das [Conve
 
 Forças não-humanas operavam ao redor de Aby Warburg (1866-1929). E ele as sentia. O historiador alemão que chegou a ser diagnosticado com esquizofrenia foi responsável, de dentro do seu processo de "loucura", por fundar novas bases para o pensamento iconográfico a partir de uma tentativa de reorganização das manifestações culturais no mundo em pranchas que aproximavam as imagens não por suas significações ou representações. Mas por suas intensidades, por suas concentrações de afetos, pelo páthos que elas manifestavam em comum. Ainda que nunca tenha, de fato, usado imagens cinematográficas em suas pranchas-constelações, a aposta metodológica warburguiana, pela natureza de pensar as imagens em exercícios de montagem, rende muitas conversas com os filmes, entre os filmes. Esta apresentação pretende pontuar a importância de trazer Warburg para pensar imagens cinematográficas que deixem de se relacionar somente pelas premissas de representação e causalidade, que tão bem servem aos três pilares da epistemologia moderna - a separabilidade, determinabilidade e sequencialidade (Denise Ferreira da Silva) - , e passem, portanto, a trocar energias que coloquem o humano e o supra-humano, novamente, em contato.
 
-![Warburg2](Warburg2.JPG "Warburg2")
+Assista à transmissão ao vivo no nosso canal do YouTube:
 
-![Pieta4](Pieta4.JPG "Pieta4")
+![Imagem destacada do vídeo da transmissão ao vivo no YouTube](YouTubeCarolAlmeida.jpg "Imagem destacada do vídeo da transmissão ao vivo no YouTube")
+
+Imagens:
+
+![Warburg](Warburg2.JPG "Imagem de uma das pranchas do Atlas Mnemosyne, de Aby Warburg")
+
+![Pieta](Pieta4.JPG "Um exercício de atlas com imagens cinematográficas")
 
 ### Minibio
 

@@ -1,5 +1,6 @@
 ---
-title: 'Por uma demonologia warburguiana das imagens cinematográficas'
+title: 'Conversas Anarqueológicas - Ciclo 2021.1 - Primeira sessão
+'
 taxonomy:
     category:
         - Palestra

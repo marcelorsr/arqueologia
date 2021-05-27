@@ -25,6 +25,7 @@ Forças não-humanas operavam ao redor de Aby Warburg (1866-1929). E ele as sen
 Assista à transmissão ao vivo no nosso canal do YouTube:
 
 [![Imagem destacada do vídeo da transmissão ao vivo no YouTube](YouTubeCarolAlmeida.jpg "Imagem destacada do vídeo da transmissão ao vivo no YouTube")](https://www.youtube.com/watch?v=yUwgjHqsi6w)
+
 Imagens:
 
 ![Warburg](Warburg2.JPG "Imagem de uma das pranchas do Atlas Mnemosyne, de Aby Warburg")

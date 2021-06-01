@@ -1,5 +1,5 @@
 ---
-title: 'Vênus em Dois Atos, Saidiya Hartman'
+title: 'Planejamento e leitura colaborativa'
 taxonomy:
     category:
         - Reunião
@@ -18,4 +18,4 @@ Reunião online por meio de videoconferência.
 
 3. Eventos e publicações: chamadas para trabalhos
 
-4. Discussão sobre o texto "Vênus em Dois Atos", de Saidiya Hartman ([https://revistaecopos.eco.ufrj.br/eco_pos/article/view/27640](https://revistaecopos.eco.ufrj.br/eco_pos/article/view/27640))
+4. Discussão

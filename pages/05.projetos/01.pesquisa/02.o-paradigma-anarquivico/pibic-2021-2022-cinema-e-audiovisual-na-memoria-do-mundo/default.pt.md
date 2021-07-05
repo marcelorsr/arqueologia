@@ -8,9 +8,11 @@ author: 'Marcelo R. S. Ribeiro'
 
 ## Cinema e audiovisual na Memória do Mundo (Unesco): tecnologias da comunicação e informação, cosmotécnicas e políticas da memória
 
-**Coordenador**: Marcelo R. S . Ribeiro
+**Orientador**: Marcelo R. S . Ribeiro
 
 **Contexto/período de desenvolvimento**: [PIBIC 2021-2022](/atividades/2021-edital-iniciacao-cientifica)
+
+**Projeto principal**: [O paradigma anarquívico e o arquivo colonial-moderno no cinema e no audiovisual](/projetos/pesquisa/o-paradigma-anarquivico)
 
 ### Resumo do projeto
 

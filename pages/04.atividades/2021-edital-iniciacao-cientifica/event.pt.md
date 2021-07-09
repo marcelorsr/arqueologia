@@ -22,15 +22,13 @@ Para se inscrever, acesse o seguinte formulário Google por meio de sua conta de
 
 ### Cronograma
 
-- Período de inscrições
-	- De 05/07 às 18h até 13/07 às 18h
-- Resultado provisório
-	- Até 15/07 às 18h
-- Apresentação de recursos
-	- Até 17/07 às 18h
-- Resultado definitivo
-	- Até 19/07 às 18h
-- Envio da documentação para bolsa CNPq
-	- Até 22/07 às 18h
-- Envio da documentação para bolsa UFBA
-	- Até 29/07 às 18h
+[datatables paging=false ordering=false info=false]
+|Etapa|Prazo|
+|---|---|
+|Período de inscrições|De 05/07 às 18h até 13/07 às 18h|
+|Resultado provisório|Até 15/07 às 18h|
+|Apresentação de recursos|Até 17/07 às 18h|
+|Resultado definitivo|Até 19/07 às 18h|
+|Envio da documentação para bolsa CNPq|Até 22/07 às 18h|
+|Envio da documentação para bolsa UFBA|Até 29/07 às 18h|
+[/datatables]

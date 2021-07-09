@@ -17,3 +17,9 @@ Por meio de uma abordagem interdisciplinar das relações entre imagem e direito
 [Leia o projeto completo](https://www.incinerrante.com/projetos/imagem-e-direitos-humanos/), compartilhado em 18/08/2017 no [incinerrante](https://www.incinerrante.com/projetos/imagem-e-direitos-humanos/).
 
 [Leia o relatório final](https://www.incinerrante.com/projetos/imagem-e-direitos-humanos/relatorio/), compartilhado em 27/05/2020 no [incinerrante](https://www.incinerrante.com/projetos/imagem-e-direitos-humanos/relatorio/).
+
+Projetos relacionados:
+
+- [Imagem e direitos humanos: consciência da humanidade, memórias de violações e projeções de dignidade no cinema e no audiovisual - O cinema de Jia Zhangke](/projetos/pesquisa/imagem-e-direitos-humanos/pibic-2018-2019-o-cinema-de-jia-zhangke)
+- [Memórias da escravidão e resistência no cinema e em outros meios: abordagens africanas e afrodiaspóricas (1, 2019-2020)](/projetos/pesquisa/imagem-e-direitos-humanos/pibic-2019-2020-memorias-da-escravidao-e-resistencia-1)
+- [Memórias da escravidão e resistência no cinema e em outros meios: abordagens africanas e afrodiaspóricas (2, 2020-2021)](/projetos/pesquisa/imagem-e-direitos-humanos/pibic-2020-2021-memorias-da-escravidao-e-resistencia-2)

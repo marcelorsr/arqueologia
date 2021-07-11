@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![](imgs/marceloribeiro.jpg?resize=300&class=center)
+![](imgs/marceloribeiro.jpg?resize=300&classes=left)
 
 ## Marcelo R. S. Ribeiro
 
@@ -17,7 +17,7 @@ Marcelo R. S. Ribeiro é professor de História e Teorias do Cinema e do Audiovi
 
 [Currículo Lattes](http://lattes.cnpq.br/1614542610299046?classes=btn,btn-primary,btn-lg)
 
-![](imgs/marcelocosta.jpg?resize=300&class=center)
+![](imgs/marcelocosta.jpg?resize=300&classes=right)
 
 ## Marcelo M. Costa
 

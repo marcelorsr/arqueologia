@@ -1,11 +1,8 @@
 ---
 title: 'Chris Mariani'
-media_order: ChrisMariani.jpg
-image_align: left
 published: true
 hide_git_sync_repo_link: true
-hide_hypothesis: false
-menu: 'Easy Content'
+hide_hypothesis: true
 ---
 
 ![Fotografia de Chris Mariani](../../imgs/ChrisMariani.jpg?resize=400)

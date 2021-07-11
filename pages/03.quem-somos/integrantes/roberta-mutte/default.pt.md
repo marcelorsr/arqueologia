@@ -1,11 +1,8 @@
 ---
 title: 'Roberta Mutte'
-media_order: RobertaMutte.jpg
-image_align: left
 published: true
 hide_git_sync_repo_link: true
-hide_hypothesis: false
-menu: 'Easy Content'
+hide_hypothesis: true
 ---
 
 ![Fotografia de Roberta Mutte](../../imgs/RobertaMutte.jpg&resize=400)

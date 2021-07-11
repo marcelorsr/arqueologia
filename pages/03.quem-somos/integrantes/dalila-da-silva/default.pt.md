@@ -1,11 +1,8 @@
 ---
 title: 'Dalila da Silva'
-media_order: 'DaliladaSilva.jpg'
-image_align: left
 published: true
 hide_git_sync_repo_link: true
-hide_hypothesis: false
-menu: 'Easy Content'
+hide_hypothesis: true
 ---
 
 ![Fotogafia de Dalila da Silva](../../imgs/Dalila%20da%20Silva.jpg?resize=400)

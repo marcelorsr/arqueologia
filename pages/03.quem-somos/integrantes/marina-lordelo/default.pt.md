@@ -1,11 +1,8 @@
 ---
 title: 'Marina Lordelo Carneiro'
-media_order: MarinaLordelo.jpeg
-image_align: left
 published: true
 hide_git_sync_repo_link: true
-hide_hypothesis: false
-menu: 'Easy Content'
+hide_hypothesis: true
 ---
 
 ![Fotografia de Marina Lordelo](../../imgs/MarinaLordelo.jpeg?resize=400)

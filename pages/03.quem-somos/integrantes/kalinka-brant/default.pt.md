@@ -1,10 +1,8 @@
 ---
 title: 'Kalinka Brant'
-media_order: Foto_Kalinka_1.jpg
-image_align: left
 published: true
-hide_git_sync_repo_link: false
-hide_hypothesis: false
+hide_git_sync_repo_link: true
+hide_hypothesis: true
 ---
 
 ![Fotografia de Kalinka Brant](../../imgs/KalinkaBrant.jpg?resize=400)

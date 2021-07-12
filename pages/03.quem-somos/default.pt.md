@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![Fotografia de Marcelo Ribeiro](imgs/marceloribeiro.jpg?resize=300&classes=right)
+![Fotografia de Marcelo Ribeiro](imgs/marceloribeiro.jpg?resize=200&classes=right)
 
 ## Marcelo R. S. Ribeiro
 
@@ -15,7 +15,7 @@ hide_hypothesis: true
 
 [Saiba mais sobre Marcelo Ribeiro](/quem-somos/marcelo-ribeiro?classes=btn,btn-primary,btn-lg)
 
-![Fotografia de Marcelo Costa](imgs/marcelocosta.jpg?resize=300&classes=right)
+![Fotografia de Marcelo Costa](imgs/marcelocosta.jpg?resize=200&classes=right)
 
 ---
 
@@ -29,7 +29,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Alexandra Helena](imgs/AlexandraHelena.jpg?resize=300&classes=right)
+![Fotografia de Alexandra Helena](imgs/AlexandraHelena.jpg?resize=200&classes=right)
 
 ## Alexandra Helena 
 
@@ -41,7 +41,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Chris Mariani](imgs/ChrisMariani.jpg?resize=300&classes=right)
+![Fotografia de Chris Mariani](imgs/ChrisMariani.jpg?resize=200&classes=right)
 
 ## Chris Mariani 
 
@@ -53,7 +53,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Dalila da Silva](imgs/Dalila%20da%20Silva.jpg?resize=300&classes=right)
+![Fotografia de Dalila da Silva](imgs/Dalila%20da%20Silva.jpg?resize=200&classes=right)
 
 ## Dalila da Silva
 
@@ -65,7 +65,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Igor Yuri](imgs/IgorYuri.jpg?resize=300&classes=right)
+![Fotografia de Igor Yuri](imgs/IgorYuri.jpg?resize=200&classes=right)
 
 ## Igor Yuri Algozino de Andrade 
 
@@ -77,7 +77,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Kalinka Brant](imgs/KalinkaBrant.jpg?resize=300&classes=right)
+![Fotografia de Kalinka Brant](imgs/KalinkaBrant.jpg?resize=200&classes=right)
 
 !!! Mestrado (PPGCI-UFBA)
 
@@ -87,7 +87,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Marcelo Matos](imgs/MarceloMatos.jpg?resize=300&classes=right)
+![Fotografia de Marcelo Matos](imgs/MarceloMatos.jpg?resize=200&classes=right)
 
 !!! Doutorado (PPGAC-UFBA)
 
@@ -97,7 +97,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Márcio Henrique](imgs/MarcioHenrique.jpg?resize=300&classes=right)
+![Fotografia de Márcio Henrique](imgs/MarcioHenrique.jpg?resize=200&classes=right)
 
 !!! Acolhimento 2020-2021
 
@@ -107,7 +107,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Marina Lordelo](imgs/MarinaLordelo.jpeg?resize=300&classes=right)
+![Fotografia de Marina Lordelo](imgs/MarinaLordelo.jpeg?resize=200&classes=right)
 
 !!! Iniciação Científica 2019-2020
 
@@ -117,7 +117,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Marina Moreno](imgs/MarinaMoreno.jpg?resize=300&classes=right)
+![Fotografia de Marina Moreno](imgs/MarinaMoreno.jpg?resize=200&classes=right)
 
 !!! Participação voluntária
 
@@ -125,7 +125,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Roberta Mutte](imgs/RobertaMutte.jpg?resize=300&classes=right)
+![Fotografia de Roberta Mutte](imgs/RobertaMutte.jpg?resize=200&classes=right)
 
 !!! Iniciação Científica 2019-2020
 
@@ -135,7 +135,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Rogério Félix](imgs/RogerioFelix.jpg?resize=300&classes=right)
+![Fotografia de Rogério Félix](imgs/RogerioFelix.jpg?resize=200&classes=right)
 
 !!! Iniciação Científica 2020-2021
 

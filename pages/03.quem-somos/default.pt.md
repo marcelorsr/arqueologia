@@ -117,7 +117,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Marina Moreno](imgs/MarinaMoreno.jpg?resize=200&classes=right)
+![Fotografia de Marina Moreno](imgs/MarinaMoreno.jpg?resize=180&classes=right)
 
 !!! Participação voluntária
 

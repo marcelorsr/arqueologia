@@ -12,7 +12,7 @@ event:
     end: '14-07-2021 23:59'
 ---
 
-Estão abertas de 05 a 16/07/2021 as inscrições para o [Edital de Seleção para Iniciação Científica 01-2021 - Cronograma retificado](). O cronograma do [edital inicial](Edital_de_Seleção_para_Iniciação_Científica_01-2021.pdf) foi atualizado no [edital retificado de 12/07/2021](Edital_de_Seleção_para_Iniciação_Científica_01-2021_-_Cronograma_retificado.pdf).
+Estão abertas de 05 a 16/07/2021 as inscrições para o [Edital de Seleção para Iniciação Científica 01-2021 - Cronograma retificado](Edital_de_Seleção_para_Iniciação_Científica_01-2021_-_Cronograma_retificado.pdf). O cronograma do [edital inicial](Edital_de_Seleção_para_Iniciação_Científica_01-2021.pdf) foi atualizado no [edital retificado de 12/07/2021](Edital_de_Seleção_para_Iniciação_Científica_01-2021_-_Cronograma_retificado.pdf).
 
 O edital oferece duas bolsas de iniciação científica (CNPq e UFBA) para o projeto [Cinema e audiovisual na Memória do Mundo (Unesco): tecnologias da comunicação e informação, cosmotécnicas e políticas da memória](/projetos/pesquisa/o-paradigma-anarquivico/pibic-2021-2022-cinema-e-audiovisual-na-memoria-do-mundo). São dois planos de trabalho relacionados:
   - Plano de trabalho 1 - Cinema e audiovisual na Memória do Mundo (Unesco): políticas da _memória do mundo_

@@ -131,8 +131,6 @@ hide_hypothesis: true
 
 !!! Participação voluntária
 
-!!!! Linha de pesquisa: Imagem e história
-
 [Saiba mais sobre Marina Moreno](/quem-somos/integrantes/marina-moreno?classes=btn,btn-primary,btn-lg)
 
 ---

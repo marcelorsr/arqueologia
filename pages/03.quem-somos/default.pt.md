@@ -79,6 +79,8 @@ hide_hypothesis: true
 
 ![Fotografia de Kalinka Brant](imgs/KalinkaBrant.jpg?resize=200&classes=right)
 
+## Kalinka Brant
+
 !!! Mestrado (PPGCI-UFBA)
 
 !!!! Linha de pesquisa: Imagem e história
@@ -88,6 +90,8 @@ hide_hypothesis: true
 ---
 
 ![Fotografia de Marcelo Matos](imgs/MarceloMatos.jpg?resize=200&classes=right)
+
+## Marcelo Matos Oliveira
 
 !!! Doutorado (PPGAC-UFBA)
 
@@ -99,6 +103,8 @@ hide_hypothesis: true
 
 ![Fotografia de Márcio Henrique](imgs/MarcioHenrique.jpg?resize=200&classes=right)
 
+## Márcio Henrique Melo de Andrade
+
 !!! Acolhimento 2020-2021
 
 !!!! Linha de pesquisa: Imagem e história
@@ -108,6 +114,8 @@ hide_hypothesis: true
 ---
 
 ![Fotografia de Marina Lordelo](imgs/MarinaLordelo.jpeg?resize=200&classes=right)
+
+## Marina Lordelo Carneiro
 
 !!! Iniciação Científica 2019-2020
 
@@ -119,15 +127,19 @@ hide_hypothesis: true
 
 ![Fotografia de Marina Moreno](imgs/MarinaMoreno.jpg?resize=200&classes=right)
 
+## Marina Moreno
+
 !!! Participação voluntária
 
-
+!!!! Linha de pesquisa: Imagem e história
 
 [Saiba mais sobre Marina Moreno](/quem-somos/integrantes/marina-moreno?classes=btn,btn-primary,btn-lg)
 
 ---
 
 ![Fotografia de Roberta Mutte](imgs/RobertaMutte.jpg?resize=200&classes=right)
+
+## Roberta Mutte
 
 !!! Iniciação Científica 2019-2020
 
@@ -138,6 +150,8 @@ hide_hypothesis: true
 ---
 
 ![Fotografia de Rogério Félix](imgs/RogerioFelix.jpg?resize=200&classes=right)
+
+## Rogério Felix
 
 !!! Iniciação Científica 2020-2021
 

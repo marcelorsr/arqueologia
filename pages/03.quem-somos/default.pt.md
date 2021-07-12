@@ -117,9 +117,11 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Marina Moreno](imgs/MarinaMoreno.jpg?resize=180&classes=right)
+![Fotografia de Marina Moreno](imgs/MarinaMoreno.jpg?resize=200&classes=right)
 
 !!! Participação voluntária
+
+
 
 [Saiba mais sobre Marina Moreno](/quem-somos/integrantes/marina-moreno?classes=btn,btn-primary,btn-lg)
 

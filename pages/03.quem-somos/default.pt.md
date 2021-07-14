@@ -15,9 +15,9 @@ hide_hypothesis: true
 
 [Saiba mais sobre Marcelo Ribeiro](/quem-somos/coordenadores/marcelo-ribeiro?classes=btn,btn-primary,btn-lg)
 
-![Fotografia de Marcelo Costa](imgs/marcelocosta.jpg?resize=200&classes=right)
-
 ---
+
+![Fotografia de Marcelo Costa](imgs/marcelocosta.jpg?resize=200&classes=right,s-circle)
 
 ## Marcelo M. Costa
 
@@ -29,7 +29,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Alexandra Helena](imgs/AlexandraHelena.jpg?resize=200&classes=right)
+![Fotografia de Alexandra Helena](imgs/AlexandraHelena.jpg?resize=200&classes=right,s-circle)
 
 ## Alexandra Helena 
 
@@ -41,7 +41,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Ana Lúcia Albuquerque](imgs/AnaLuciaAlbuquerque.jpg?resize=200&classes=right)
+![Fotografia de Ana Lúcia Albuquerque](imgs/AnaLuciaAlbuquerque.jpg?resize=200&classes=right,s-circle)
 
 ## Ana Lucia Albuquerque
 
@@ -51,7 +51,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Andressa Mascarenhas](imgs/AndressaMascarenhas.jpg?resize=200&classes=right)
+![Fotografia de Andressa Mascarenhas](imgs/AndressaMascarenhas.jpg?resize=200&classes=right,s-circle)
 
 ## Andressa Mascarenhas 
 
@@ -61,7 +61,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Chris Mariani](imgs/ChrisMariani.jpg?resize=200&classes=right)
+![Fotografia de Chris Mariani](imgs/ChrisMariani.jpg?resize=200&classes=right,s-circle)
 
 ## Chris Mariani 
 
@@ -73,7 +73,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Dalila da Silva](imgs/Dalila%20da%20Silva.jpg?resize=200&classes=right)
+![Fotografia de Dalila da Silva](imgs/Dalila%20da%20Silva.jpg?resize=200&classes=right,s-circle)
 
 ## Dalila da Silva
 
@@ -85,7 +85,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Igor Yuri](imgs/IgorYuri.jpg?resize=200&classes=right)
+![Fotografia de Igor Yuri](imgs/IgorYuri.jpg?resize=200&classes=right,s-circle)
 
 ## Igor Yuri Algozino de Andrade 
 
@@ -97,7 +97,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Kalinka Brant](imgs/KalinkaBrant.jpg?resize=200&classes=right)
+![Fotografia de Kalinka Brant](imgs/KalinkaBrant.jpg?resize=200&classes=right,s-circle)
 
 ## Kalinka Brant
 
@@ -109,7 +109,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Marcelo Matos](imgs/MarceloMatos.jpg?resize=200&classes=right)
+![Fotografia de Marcelo Matos](imgs/MarceloMatos.jpg?resize=200&classes=right,s-circle)
 
 ## Marcelo Matos Oliveira
 
@@ -121,7 +121,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Márcio Henrique](imgs/MarcioHenrique.jpg?resize=200&classes=right)
+![Fotografia de Márcio Henrique](imgs/MarcioHenrique.jpg?resize=200&classes=right,s-circle)
 
 ## Márcio Henrique Melo de Andrade
 
@@ -133,7 +133,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Marina Lordelo](imgs/MarinaLordelo.jpeg?resize=200&classes=right)
+![Fotografia de Marina Lordelo](imgs/MarinaLordelo.jpeg?resize=200&classes=right,s-circle)
 
 ## Marina Lordelo Carneiro
 
@@ -145,7 +145,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Marina Moreno](imgs/MarinaMoreno.jpg?resize=200&classes=right)
+![Fotografia de Marina Moreno](imgs/MarinaMoreno.jpg?resize=200&classes=right,s-circle)
 
 ## Marina Moreno
 
@@ -155,7 +155,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Roberta Mutte](imgs/RobertaMutte.jpg?resize=200&classes=right)
+![Fotografia de Roberta Mutte](imgs/RobertaMutte.jpg?resize=200&classes=right,s-circle)
 
 ## Roberta Mutte
 
@@ -167,7 +167,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Rogério Félix](imgs/RogerioFelix.jpg?resize=200&classes=right)
+![Fotografia de Rogério Félix](imgs/RogerioFelix.jpg?resize=200&classes=right,s-circle)
 
 ## Rogério Felix
 

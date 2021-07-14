@@ -9,6 +9,8 @@ hide_hypothesis: true
 
 ## Monique Feitosa
 
+!! Egressa
+
 !!! Iniciação científica 2020-2021 (plano de trabalho interrompido aos 6 meses)
 
 !!!! Linha de pesquisa: Imagem e história

@@ -7,6 +7,8 @@ hide_hypothesis: true
 
 ## Mateus de Jesus Viana
 
+!! Egresso
+
 !!! Iniciação científica 2018-2019
 
 !!!! Linha de pesquisa: Imagem e história

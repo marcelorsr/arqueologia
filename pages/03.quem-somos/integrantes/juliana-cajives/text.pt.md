@@ -9,7 +9,9 @@ hide_hypothesis: true
 
 ## Juliana dos Santos Costa (Juliana Cajives)
 
-!!!! Acolhimento 2020-2021 (projeto interrompido/adiado)
+!! Egressa
+
+!!! Acolhimento 2020-2021 (projeto interrompido/adiado)
 
 !!!! Linha de pesquisa: Imagem e corpo
 

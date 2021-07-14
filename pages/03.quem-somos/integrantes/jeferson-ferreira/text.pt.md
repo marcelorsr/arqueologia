@@ -9,6 +9,8 @@ hide_hypothesis: true
 
 ## Jeferson Ferreira
 
+!! Egresso
+
 !!! Iniciação científica 2019-2020 & Acolhimento 2020-2021 (projeto interrompido/adiado)
 
 !!!! Linha de pesquisa: Imagem e história

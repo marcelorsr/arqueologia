@@ -33,7 +33,7 @@ hide_hypothesis: true
 
 ## Alexandra Helena 
 
-!! Iniciação científica 2020-2021
+!!! Iniciação científica 2020-2021
 
 !!!! Linha de pesquisa: Imagem e história
 

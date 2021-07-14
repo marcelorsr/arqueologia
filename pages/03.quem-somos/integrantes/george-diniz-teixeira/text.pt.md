@@ -9,6 +9,8 @@ hide_hypothesis: true
 
 ## George Diniz Teixeira
 
+!! Egresso
+
 !!! Iniciação científica 2018-2019
 
 !!!! Linha de pesquisa: Imagem e história

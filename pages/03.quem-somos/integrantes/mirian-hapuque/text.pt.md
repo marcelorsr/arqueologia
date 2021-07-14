@@ -7,6 +7,8 @@ hide_hypothesis: true
 
 ## Mirian Hapuque Magalhães
 
+!! Egressa
+
 !!! Acolhimento 2020-2021 (projeto interrompido/adiado)
 
 !!!! Linha de pesquisa: Imagem e corpo

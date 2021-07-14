@@ -1,11 +1,8 @@
 ---
 title: 'Marcos Alexandre'
-media_order: MarcosAlexandre.jpg
-image_align: left
-published: false
+published: true
 hide_git_sync_repo_link: true
-hide_hypothesis: false
-menu: 'Easy Content'
+hide_hypothesis: true
 ---
 
 ![Fotografia de Marcos Alexandre](../../imgs/MarcosAlexandre.jpg?resize=400)

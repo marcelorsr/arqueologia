@@ -8,7 +8,11 @@ hide_hypothesis: false
 menu: 'Easy Content'
 ---
 
+![Fotografia de Marcos Alexandre](../../imgs/MarcosAlexandre.jpg?resize=400)
+
 ## Marcos Alexandre
+
+!!! Participação voluntária
 
 Marcos Alexandre Dantas Rodrigues é Diretor, Roteirista e Produtor. Formado no curso superior de Tecnologia em Produção Audiovisual no Centro Universitário Jorge Amado. Atualmente trabalha como cinegrafista e editor no Instituto Federal da Bahia. É fundador do coletivo/produtora Gran Maître Filmes e um dos idealizadores pelo Cineclube Cultura. Escreveu e dirigiu os curtas-metragens “*O Vizinho de Frau Kutner”* (2019) exibido em festivais nacionais e internacionais e “*O Último Grão de Areia”* (2020-2021) que está sendo inscrito em festivais; além disso, dirigiu e escreveu os videoclipes *“Água de Meninos”* da Orquestra Afrosinfônica e *“Presença”* de Flaviana Fernandes.
 

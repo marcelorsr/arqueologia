@@ -22,11 +22,15 @@ Projeto completo para consulta: [Memórias da escravidão e resistência no cine
 
 ### Resumo do plano de trabalho 1 - Memórias da escravidão e resistência no cinema e em outros meios: estudo analítico no contexto do cinema brasileiro contemporâneo
 
+Desenvolvido por [Marina Lordelo Carneiro](/quem-somos/integrantes/marina-lordelo) entre agosto de 2019 e julho de 2020, com bolsa da FAPESB.
+
 Este plano de trabalho aborda as representações e abordagens da escravidão e da resistência à escravidão, no cinema e em outros meios, no contexto do cinema brasileiro contemporâneo e de sua época (desde 1990, com ênfase nos desdobramentos mais recentes, após 2010), com base no estudo analítico e comparativo de produções cinematográficas e artísticas do período, identificando seus modos de relação com o arquivo histórico da escravidão atlântica e com suas lacunas. Considerando as relações variáveis com o arquivo da escravidão e com suas lacunas, trata­se de pensar quais são as modalidades de apropriação, recusa e ressignificação do arquivo da escravidão, assim como as formas de reivindicação da invenção de novas imagens, que estão em jogo em um ou mais filmes ou obras do período.
 
 Plano de trabalho 1 para consulta: [Memórias da escravidão e resistência no cinema e em outros meios: estudo analítico no contexto do cinema brasileiro contemporâneo](Plano_de_trabalho_1_PIBIC_2019.pdf)
 
 ### Resumo do plano de trabalho 2 - Memórias da escravidão e resistência no cinema e em outros meios: estudo analítico no contexto dos cinemas africanos contemporâneos
+
+Plano de trabalho não desenvolvido.
 
 Este plano de trabalho aborda as representações e abordagens da escravidão e da resistência à escravidão, no cinema e em outros meios, nos contextos diversos que podem ser reunidos sob a rubrica dos cinemas africanos contemporâneos e de sua época (desde a década de 1980), com base no estudo analítico e comparativo de produções cinematográficas e artísticas do período, identificando seus modos de relação com o arquivo histórico da escravidão atlântica e com suas lacunas. Considerando as relações variáveis com o arquivo da escravidão e com suas lacunas, trata­se de pensar quais são as modalidades de apropriação, recusa e ressignificação do arquivo da escravidão, assim como as formas de reivindicação da invenção de novas imagens, que estão em jogo em um ou mais filmes ou obras do período.
 
@@ -34,11 +38,15 @@ Plano de trabalho 2 para consulta: [Memórias da escravidão e resistência no c
 
 ### Resumo do plano de trabalho 3 - Memórias da escravidão e resistência no cinema e em outros meios: estudo analítico no contexto do cinema brasileiro moderno
 
+Desenvolvido por [Jeferson Ferreira](/quem-somos/integrantes/jeferson-ferreira) entre agosto de 2019 e julho de 2020, de forma voluntária.
+
 Este plano de trabalho aborda as representações e abordagens da escravidão e da resistência à escravidão, no cinema e em outros meios, no contexto do cinema brasileiro moderno e de sua época (décadas de 1950­-80), com base no estudo analítico e comparativo de produções cinematográficas e artísticas do período, identificando seus modos de relação com o arquivo histórico da escravidão atlântica e com suas lacunas. Considerando as relações variáveis com o arquivo da escravidão e com suas lacunas, trata­se de pensar quais são as modalidades de apropriação, recusa e ressignificação do arquivo da escravidão, assim como as formas de reivindicação da invenção de novas imagens, que estão em jogo em um ou mais filmes ou obras do período.
 
 Plano de trabalho 3 para consulta: [Memórias da escravidão e resistência no cinema e em outros meios: estudo analítico no contexto do cinema brasileiro moderno](Plano_de_trabalho_3_PIBIC_2019.pdf)
 
 ### Resumo do plano de trabalho 4 - Memórias da escravidão e resistência no cinema e em outros meios: estudo analítico no contexto dos cinemas africanos modernos
+
+Desenvolvido por [Roberta Mutte](/quem-somos/integrantes/roberta-mutte) entre agosto de 2019 e julho de 2020, com bolsa do CNPq.
 
 Este plano de trabalho aborda as representações e abordagens da escravidão e da resistência à escravidão, no cinema e em outros meios, nos contextos diversos que podem ser reunidos sob a rubrica dos cinemas africanos modernos e de sua época (décadas de 1950 a 1970, em meio ao processo de descolonização), com base no estudo analítico e comparativo de produções cinematográficas e artísticas do período, identificando seus modos de relação com o arquivo histórico da escravidão atlântica e com suas lacunas. Considerando as relações variáveis com o arquivo da escravidão e com suas lacunas, trata­se de pensar quais são as modalidades de apropriação, recusa e ressignificação do arquivo da escravidão, assim como as formas de reivindicação da invenção de novas imagens, que estão em jogo em um ou mais filmes ou obras do período.
 

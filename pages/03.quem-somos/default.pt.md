@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![Fotografia de Marcelo Ribeiro](imgs/marceloribeiro.jpg?resize=200&classes=right)
+![Fotografia de Marcelo Ribeiro](imgs/marceloribeiro.jpg?resize=200&classes=right,s-circle)
 
 ## Marcelo R. S. Ribeiro
 

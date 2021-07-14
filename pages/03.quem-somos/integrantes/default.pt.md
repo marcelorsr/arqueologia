@@ -13,6 +13,8 @@ hide_hypothesis: true
 
 [Alexandra Helena](/quem-somos/integrantes/alexandra-helena)
 
+[Ana Lucia Albuquerque](/quem-somos/integrantes/ana-lucia-albuquerque)
+
 [Andressa Mascarenhas](/quem-somos/integrantes/andressa-mascarenhas)
 
 [Chris Mariani](/quem-somos/integrantes/chris-mariani)

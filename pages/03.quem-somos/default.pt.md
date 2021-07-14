@@ -41,6 +41,16 @@ hide_hypothesis: true
 
 ---
 
+![Fotografia de Ana Lúcia Albuquerque](imgs/AnaLuciaAlbuquerque.jpg?resize=200&classes=right)
+
+## Ana Lucia Albuquerque
+
+!!! Participação voluntária
+
+[Saiba mais sobre Ana Lucia](/quem-somos/integrantes/ana-lucia-albuquerque?classes=btn,btn-primary,btn-lg)
+
+---
+
 ![Fotografia de Andressa Mascarenhas](imgs/AndressaMascarenhas.jpg?resize=200&classes=right)
 
 ## Andressa Mascarenhas 

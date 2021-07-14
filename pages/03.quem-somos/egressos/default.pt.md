@@ -5,6 +5,8 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
+# Egressos
+
 [Ana Camila Esteves](/quem-somos/integrantes/ana-camila-esteves)
 
 [George Diniz Teixeira](/quem-somos/integrantes/george-diniz-teixeira)

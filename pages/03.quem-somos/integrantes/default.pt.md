@@ -5,6 +5,8 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
+# Integrantes em atividade
+
 [Marcelo R. S. Ribeiro](/quem-somos/coordenadores/marcelo-ribeiro)
 
 [Marcelo M. Costa](/quem-somos/coordenadores/marcelo-costa)

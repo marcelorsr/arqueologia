@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![Fotografia de Monique Feitosa](../../imgs/MoniqueFeitosa.jpg?resize=400)
+![Fotografia de Monique Feitosa](../../imgs/MoniqueFeitosa.jpg?resize=400&classes=center,s-circle)
 
 ## Monique Feitosa
 

@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![Fotografia de Juliana Cajives](../../imgs/JulianaCajives.jpg?resize=400)
+![Fotografia de Juliana Cajives](../../imgs/JulianaCajives.jpg?resize=400&classes=center,s-circle)
 
 ## Juliana dos Santos Costa (Juliana Cajives)
 

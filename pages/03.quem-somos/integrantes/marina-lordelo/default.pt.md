@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![Fotografia de Marina Lordelo](../../imgs/MarinaLordelo.jpeg?resize=400)
+![Fotografia de Marina Lordelo](../../imgs/MarinaLordelo.jpeg?resize=400&classes=center,s-circle)
 
 ## Marina Lordelo Carneiro
 

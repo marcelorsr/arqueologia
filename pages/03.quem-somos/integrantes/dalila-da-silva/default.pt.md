@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![Fotogafia de Dalila da Silva](../../imgs/Dalila%20da%20Silva.jpg?resize=400)
+![Fotogafia de Dalila da Silva](../../imgs/Dalila%20da%20Silva.jpg?resize=400&classes=center,s-circle)
 
 ## Dalila da Silva
 

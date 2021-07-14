@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![Fotografia de Ana Lúcia Albuquerque](../../imgs/AnaLuciaAlbuquerque.jpg?resize=400)
+![Fotografia de Ana Lúcia Albuquerque](../../imgs/AnaLuciaAlbuquerque.jpg?resize=400&classes=center,s-circle)
 
 ## Ana Lúcia Albuquerque
 

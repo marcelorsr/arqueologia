@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![Fotografia de Igor Yuri](../../imgs/IgorYuri.jpg?resize=400)
+![Fotografia de Igor Yuri](../../imgs/IgorYuri.jpg?resize=400&classes=center,s-circle)
 
 ## Igor Yuri Algozino de Andrade
 

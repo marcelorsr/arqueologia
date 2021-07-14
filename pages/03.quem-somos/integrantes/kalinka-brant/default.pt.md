@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![Fotografia de Kalinka Brant](../../imgs/KalinkaBrant.jpg?resize=400)
+![Fotografia de Kalinka Brant](../../imgs/KalinkaBrant.jpg?resize=400&classes=center,s-circle)
 
 ## Kalinka Brant
 

@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![Fotografia de Marina Moreno](../../imgs/MarinaMoreno.jpg?resize=400)
+![Fotografia de Marina Moreno](../../imgs/MarinaMoreno.jpg?resize=400&classes=center,s-circle)
 
 ## Marina Moreno
 

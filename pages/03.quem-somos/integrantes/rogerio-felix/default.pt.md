@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![Fotografia de Rogério Félix](../../imgs/RogerioFelix.jpg)
+![Fotografia de Rogério Félix](../../imgs/RogerioFelix.jpg?resize=400&classes=center,s-circle)
 
 ## Rogério Felix
 

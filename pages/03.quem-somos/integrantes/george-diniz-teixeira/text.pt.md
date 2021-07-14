@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![Fotografia de George Diniz Teixeira](../../imgs/GeorgeDiniz.jpg?resize=400)
+![Fotografia de George Diniz Teixeira](../../imgs/GeorgeDiniz.jpg?resize=400&classes=center,s-circle)
 
 ## George Diniz Teixeira
 

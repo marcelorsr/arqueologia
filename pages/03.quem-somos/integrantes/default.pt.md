@@ -13,6 +13,8 @@ hide_hypothesis: true
 
 [Alexandra Helena](/quem-somos/integrantes/alexandra-helena)
 
+[Andressa Mascarenhas](/quem-somos/integrantes/andressa-mascarenhas)
+
 [Chris Mariani](/quem-somos/integrantes/chris-mariani)
 
 [Dalila da Silva](/quem-somos/integrantes/dalila-da-silva)

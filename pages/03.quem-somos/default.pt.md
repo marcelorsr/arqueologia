@@ -41,6 +41,16 @@ hide_hypothesis: true
 
 ---
 
+![Fotografia de Andressa Mascarenhas](imgs/AndressaMascarenhas.jpg?resize=200&classes=right)
+
+## Andressa Mascarenhas 
+
+!!! Participação voluntária
+
+[Saiba mais sobre Andressa](/quem-somos/integrantes/andressa-mascarenhas?classes=btn,btn-primary,btn-lg)
+
+---
+
 ![Fotografia de Chris Mariani](imgs/ChrisMariani.jpg?resize=200&classes=right)
 
 ## Chris Mariani 

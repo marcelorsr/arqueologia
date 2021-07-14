@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-![Fotografia de Marcelo Costa](../imgs/marcelocosta.jpg?resize=400&classes=right)
+![Fotografia de Marcelo Costa](../../imgs/marcelocosta.jpg?resize=400&classes=right)
 
 ## Marcelo M. Costa
 

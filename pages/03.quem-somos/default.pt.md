@@ -13,7 +13,7 @@ hide_hypothesis: true
 
 !!!! Linha de pesquisa: Imagem e história
 
-[Saiba mais sobre Marcelo Ribeiro](/quem-somos/marcelo-ribeiro?classes=btn,btn-primary,btn-lg)
+[Saiba mais sobre Marcelo Ribeiro](/quem-somos/coordenadores/marcelo-ribeiro?classes=btn,btn-primary,btn-lg)
 
 ![Fotografia de Marcelo Costa](imgs/marcelocosta.jpg?resize=200&classes=right)
 
@@ -25,7 +25,7 @@ hide_hypothesis: true
 
 !!!! Linha de pesquisa: Imagem e corpo
 
-[Saiba mais sobre Marcelo Costa](/quem-somos/marcelo-costa?classes=btn,btn-primary,btn-lg)
+[Saiba mais sobre Marcelo Costa](/quem-somos/coordenadores/marcelo-costa?classes=btn,btn-primary,btn-lg)
 
 ---
 
@@ -61,7 +61,7 @@ hide_hypothesis: true
 
 !!!! Linha de pesquisa: Imagem e corpo
 
-[Saiba mais sobre Alexandra](/quem-somos/integrantes/dalila-da-silva?classes=btn,btn-primary,btn-lg)
+[Saiba mais sobre Dalila](/quem-somos/integrantes/dalila-da-silva?classes=btn,btn-primary,btn-lg)
 
 ---
 
@@ -121,7 +121,7 @@ hide_hypothesis: true
 
 !!!! Linha de pesquisa: Imagem e história
 
-[Saiba mais sobre Marina Lordelo](/quem-somos/integrantes/marcelo-matos?classes=btn,btn-primary,btn-lg)
+[Saiba mais sobre Marina Lordelo](/quem-somos/integrantes/marina-lordelo?classes=btn,btn-primary,btn-lg)
 
 ---
 
@@ -156,3 +156,7 @@ hide_hypothesis: true
 !!!! Linha de pesquisa: Imagem e história
 
 [Saiba mais sobre Rogério](/quem-somos/integrantes/rogerio-felix?classes=btn,btn-primary,btn-lg)
+
+---
+
+Conheça também [quem já passou pelo grupo](/quem-somos/egressos/).

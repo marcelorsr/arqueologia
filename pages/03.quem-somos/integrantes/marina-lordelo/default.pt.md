@@ -9,7 +9,7 @@ hide_hypothesis: true
 
 ## Marina Lordelo Carneiro
 
-!!! Iniciação científica 2019-2020
+!!! Iniciação científica 2019-2020 e pesquisadora associada
 
 !!!! Linha de pesquisa: Imagem e história
 

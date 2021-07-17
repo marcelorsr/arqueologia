@@ -1,6 +1,5 @@
 ---
 title: 'Inscrições - Edital de Seleção para Iniciação Científica 01/2021'
-media_order: 'Edital de Seleção para Iniciação Científica 01-2020.pdf,Resultado - Primeiro período - Edital de Seleção para Iniciação Científica 01-2020.pdf,Resultado - Primeiro período - Edital de Seleção para Iniciação Científica 01-2020.pdf,Resultado provisório - Segundo período - Edital de Seleção para Iniciação Científica 01-2020.pdf,Resultado detinitivo - Edital de Seleção para Iniciação Científica 01-2020.pdf'
 date: '05-07-2021 17:00'
 taxonomy:
     category:
@@ -9,7 +8,7 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 event:
     start: '05-07-2021 18:00'
-    end: '14-07-2021 23:59'
+    end: '16-07-2021 23:59'
 ---
 
 Estão abertas de 05 a 16/07/2021 as inscrições para o [Edital de Seleção para Iniciação Científica 01-2021 - Cronograma retificado](Edital_de_Seleção_para_Iniciação_Científica_01-2021_-_Cronograma_retificado.pdf). O cronograma do [edital inicial](Edital_de_Seleção_para_Iniciação_Científica_01-2021.pdf) foi atualizado no [edital retificado de 12/07/2021](Edital_de_Seleção_para_Iniciação_Científica_01-2021_-_Cronograma_retificado.pdf).

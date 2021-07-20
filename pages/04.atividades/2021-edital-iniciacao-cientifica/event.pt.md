@@ -1,6 +1,6 @@
 ---
 title: 'Inscrições - Edital de Seleção para Iniciação Científica 01/2021'
-date: '05-07-2021 17:00'
+date: '05-07-2021 18:00'
 taxonomy:
     category:
         - Edital

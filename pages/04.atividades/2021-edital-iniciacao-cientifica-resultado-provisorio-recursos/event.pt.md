@@ -1,6 +1,6 @@
 ---
 title: 'Resultado provisório e recursos - Edital de Seleção para Iniciação Científica 01/2021'
-date: '05-07-2021 17:00'
+date: '17-07-2021 18:00'
 author: 'Marcelo R. S. Ribeiro'
 taxonomy:
     category:

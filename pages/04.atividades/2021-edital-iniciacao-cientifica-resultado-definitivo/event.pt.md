@@ -14,7 +14,7 @@ event:
 
 Divulgamos o **resultado definitivo** do processo seletivo para duas bolsas de iniciação científica (CNPq e UFBA) para o projeto [Cinema e audiovisual na Memória do Mundo (Unesco): tecnologias da comunicação e informação, cosmotécnicas e políticas da memória](/projetos/pesquisa/o-paradigma-anarquivico/pibic-2021-2022-cinema-e-audiovisual-na-memoria-do-mundo), conforme [Edital de Seleção para Iniciação Científica 01-2021 - Cronograma retificado](/atividades/2021-edital-iniciacao-cientifica), tal como divulgado em 05/07/2021, com o cronograma retificado em 12/07/2021. Nesta ocasião, informamos ainda que o cronograma de entrega de documentação precisou ser antecipado para a bolsa do CNPq, conforme cronograma no final desta página.
 
-Depois da divulgação do [resultado definitivo](/atividades/2021-edital-iniciacao-cientifica-resultado-provisorio-recursos), não foi apresentado nenhum recurso.
+Depois da divulgação do [resultado provisório](/atividades/2021-edital-iniciacao-cientifica-resultado-provisorio-recursos), não foi apresentado nenhum recurso.
 
 ## Resultado definitivo - Edital de Seleção para Iniciação Científica 01-2021
 

@@ -20,8 +20,8 @@ Depois da divulgação do [resultado provisório](/atividades/2021-edital-inicia
 
 As candidaturas recebidas foram classificadas conforme segue:
 
-1. João Guilherme Batista Cardoso - selecionado para o plano de trabalho 1 (com bolsa do CNPq)
-2. Marina Moreno Baqueiro de Souza - selecionada para o plano de trabalho 2 (bom bolsa da UFBA)
+1. João Guilherme Batista Cardoso - selecionado para o plano de trabalho 1 (com bolsa da UFBA)
+2. Marina Moreno Baqueiro de Souza - selecionada para o plano de trabalho 2 (bom bolsa do CNPq)
 3. Lara Menezes Chaves - aprovada
 4. Angelita Cristiane Candido - aprovada
 5. Sabrina Santos Couto - aprovada

@@ -18,7 +18,7 @@ Iniciativa de articulação interdisciplinar – e, potencialmente, indisciplina
 - [PIBIC 2018-2019](/projetos/pesquisa/imagem-e-direitos-humanos/pibic-2018-2019-o-cinema-de-jia-zhangke)
 - [PIBIC 2019-2020](/projetos/pesquisa/imagem-e-direitos-humanos/pibic-2019-2020-memorias-da-escravidao-e-resistencia-1)
 - [PIBIC 2020-2021](/projetos/pesquisa/imagem-e-direitos-humanos/pibic-2020-2021-memorias-da-escravidao-e-resistencia-2)
-- [PBMS 2020-2021](/projetos/pesquisa/imagem-e-direitos-humanos/pbms-2020-2021-memorias-da-escravidao-e-resistencia)
+- [PBMS 2020-2021](/projetos/pesquisa/imagem-e-direitos-humanos/pbms-2020-2021-memorias-da-escravidao-e-resistencia-2a)
 
 [O paradigma anarquívico](/projetos/pesquisa/o-paradigma-anarquivico)
 

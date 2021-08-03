@@ -23,3 +23,4 @@ Projetos relacionados:
 - [Imagem e direitos humanos: consciência da humanidade, memórias de violações e projeções de dignidade no cinema e no audiovisual - O cinema de Jia Zhangke](/projetos/pesquisa/imagem-e-direitos-humanos/pibic-2018-2019-o-cinema-de-jia-zhangke)
 - [Memórias da escravidão e resistência no cinema e em outros meios: abordagens africanas e afrodiaspóricas (1, 2019-2020)](/projetos/pesquisa/imagem-e-direitos-humanos/pibic-2019-2020-memorias-da-escravidao-e-resistencia-1)
 - [Memórias da escravidão e resistência no cinema e em outros meios: abordagens africanas e afrodiaspóricas (2, 2020-2021)](/projetos/pesquisa/imagem-e-direitos-humanos/pibic-2020-2021-memorias-da-escravidao-e-resistencia-2)
+- [Memórias da escravidão e resistência no cinema e em outros meios: abordagens africanas e afrodiaspóricas (2, 2020-2021)](/projetos/pesquisa/imagem-e-direitos-humanos/pbms-2020-2021-memorias-da-escravidao-e-resistencia-2a)

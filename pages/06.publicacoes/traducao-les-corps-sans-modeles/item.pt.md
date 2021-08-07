@@ -1,18 +1,18 @@
 ---
-title: 'Cosmopoéticas do espectador selvagem'
-media_order: 'taego.jpg'
+title: 'Les corps sans modèles'
 published: true
-date: '25-05-2020 10:40'
-publish_date: '25-05-2020 10:40'
+date: '07-08-2021 20:35'
+publish_date: '07-08-2021 20:35'
 taxonomy:
     category:
-        - Artigo
+        - Tradução
     author:
         - 'Marcelo R. S. Ribeiro'
+        - 'Marcelo Matos Oliveira'
+        - 'Roberta Mutte'
+        - 'Kalinka Brant'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
-hero_classes: 'hero-fullscreen parallax overlay-dark text-light'
-hero_image: taego.jpg
 blog_url: /publicacoes
 show_sidebar: false
 show_breadcrumbs: false

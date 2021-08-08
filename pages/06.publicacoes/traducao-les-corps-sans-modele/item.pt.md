@@ -1,5 +1,6 @@
 ---
 title: 'Tradução - Os corpos sem modelo (Les corps sans modèle)'
+media_order: 'williamson1904interesting.jpg'
 published: true
 date: '07-08-2021 20:35'
 publish_date: '07-08-2021 20:35'
@@ -13,6 +14,8 @@ taxonomy:
         - 'Kalinka Brant'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
+hero_classes: 'hero-fullscreen parallax overlay-dark text-light'
+hero_image: williamson1904interesting.jpg
 blog_url: /publicacoes
 show_sidebar: false
 show_breadcrumbs: false

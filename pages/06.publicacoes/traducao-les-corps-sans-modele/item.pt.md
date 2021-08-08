@@ -1,5 +1,5 @@
 ---
-title: 'Tradução - Os corpos sem modelo (Les corps sans modèle), de Nicole Brenez'
+title: 'Tradução - Os corpos sem modelo, de Nicole Brenez'
 media_order: 'williamson1904interesting.jpg'
 published: true
 date: '07-08-2021 20:35'
@@ -27,7 +27,7 @@ feed:
     limit: 10
 ---
 
-Apresentamos aqui a primeira versão pública da tradução do capítulo "Les corps sans modèle", do livro *De la figure en général et du corps en particulier: l'invention figurative au cinéma*, de Nicole Brenez (1998). Trata-se do capítulo 1 da parte 1. A "Introdução", intitulada "Carta a Tag Gallagher", está disponível [em tradução de Pedro Veras, no blog Culture Injection](https://cultureinjection.wordpress.com/2018/04/24/da-figura-em-geral-e-do-corpo-em-particular-a-invencao-figurativa-no-cinema-carta-a-tag-gallagher-por-nicoles-brenez-17-07-1998/).
+Apresentamos aqui a primeira versão pública da tradução do capítulo "Les corps sans modèle", do livro *De la figure en général et du corps en particulier: l'invention figurative au cinéma*, de Nicole Brenez (1998). Trata-se do capítulo 1 da parte 1, "Economias figurativas". A "Introdução", intitulada "Carta a Tag Gallagher", está disponível [em tradução de Pedro Veras, no blog Culture Injection](https://cultureinjection.wordpress.com/2018/04/24/da-figura-em-geral-e-do-corpo-em-particular-a-invencao-figurativa-no-cinema-carta-a-tag-gallagher-por-nicoles-brenez-17-07-1998/).
 
 Esta tradução de "Les corps sans modèle" foi realizada de forma colaborativa por integrantes do Arqueologia do Sensível - especificamente: [Marcelo R. S. Ribeiro](/quem-somos/coordenadores/marcelo-ribeiro), [Marcelo Matos Oliveira](/quem-somos/integrantes/marcelo-matos), [Roberta Mutte](/quem-somos/integrantes/roberta-mutte/) e [Kalinka Brant](/quem-somos/integrantes/kalinka-brant/) - e constitui um trabalho em aberto, provisório, incerto, no qual assumimos alguns riscos e anotamos certas dificuldades, ao lidar com um texto que apresenta significativa densidade filosófica, teórica, conceitual, analítica e poética.
 

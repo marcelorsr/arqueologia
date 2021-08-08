@@ -1,5 +1,5 @@
 ---
-title: 'Les corps sans modèle'
+title: 'Tradução - Os corpos sem modelo (Les corps sans modèle)'
 published: true
 date: '07-08-2021 20:35'
 publish_date: '07-08-2021 20:35'

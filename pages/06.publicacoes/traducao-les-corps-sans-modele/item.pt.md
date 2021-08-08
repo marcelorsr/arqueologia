@@ -2,8 +2,8 @@
 title: 'Tradução - Os corpos sem modelo, de Nicole Brenez'
 media_order: 'williamson1904interesting.jpg'
 published: true
-date: '07-08-2021 20:35'
-publish_date: '07-08-2021 20:35'
+date: '07-08-2021 20:40'
+publish_date: '07-08-2021 20:40'
 taxonomy:
     category:
         - Tradução

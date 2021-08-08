@@ -104,4 +104,4 @@ What you need is a canned woman. - *To Hell With the Devil*
 
 Em um filme de James A. Williamson, *An Interesting Story* (1905), um homem se apaixona por uma narrativa ao ponto de não ver mais nada além de seu livro. Indiferente ao mundo, ele desencadeia os piores acidentes ao seu redor, ele bebe seu café em seu chapéu, ele inverte baldes, mesas, carros, ele confunde os homens, as mulheres e os objetos, até cair ele mesmo sob um enorme rolo-compressor. Ele sai dali todo achatado, mas dois ciclistas que passam vêm ao seu socorro e o inflam novamente com sua bomba de bicicleta. Ele retoma seu caminho. Ele triunfa sobre todas as destruições, é o homem do cinema.
 
-[plugin:youtube](https://www.youtube.com/watch?v=N-zTxEg2rGs)
+[plugin:youtube](https://www.youtube.com/watch?v=uTpwGXWvNIM)

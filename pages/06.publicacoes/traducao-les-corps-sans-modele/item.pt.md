@@ -41,6 +41,8 @@ Marcelo Ribeiro
 
 ## Os corpos sem modelo, por Nicole Brenez
 
+Tradução em processo: [Marcelo R. S. Ribeiro](/quem-somos/coordenadores/marcelo-ribeiro), [Marcelo Matos Oliveira](/quem-somos/integrantes/marcelo-matos), [Roberta Mutte](/quem-somos/integrantes/roberta-mutte/) e [Kalinka Brant](/quem-somos/integrantes/kalinka-brant/)
+
 ### Mas de início
 
 "Os homens necessariamente existentes em comunidade não são pensáveis como simples corpos e, quaisquer que sejam os objetos culturais que lhes correspondem estruturalmente, eles não se esgotam, em todo caso, no seu ser corpóreo." (Edmund Husserl)

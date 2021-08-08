@@ -1,5 +1,5 @@
 ---
-title: 'Tradução - Os corpos sem modelo (Les corps sans modèle)'
+title: 'Tradução - Os corpos sem modelo (Les corps sans modèle), de Nicole Brenez'
 media_order: 'williamson1904interesting.jpg'
 published: true
 date: '07-08-2021 20:35'
@@ -31,11 +31,15 @@ Apresentamos aqui a primeira versão pública da tradução do capítulo "Les co
 
 Esta tradução de "Les corps sans modèle" foi realizada de forma colaborativa por integrantes do Arqueologia do Sensível - especificamente: [Marcelo R. S. Ribeiro](/quem-somos/coordenadores/marcelo-ribeiro), [Marcelo Matos Oliveira](/quem-somos/integrantes/marcelo-matos), [Roberta Mutte](/quem-somos/integrantes/roberta-mutte/) e [Kalinka Brant](/quem-somos/integrantes/kalinka-brant/) - e constitui um trabalho em aberto, provisório, incerto, no qual assumimos alguns riscos e anotamos certas dificuldades, ao lidar com um texto que apresenta significativa densidade filosófica, teórica, conceitual, analítica e poética.
 
-Ao apresentar esta tradução aqui, nosso desejo é compartilhar o contato com a escrita de Brenez e, ao mesmo tempo, acolher sugestões, questionamentos e comentários para aprimorar a tradução. Para fazer isso, você pode [entrar em contato](/contato/) ou, no final da página, clicar em "Clique aqui para sugerir uma alteração nesta página".
+Ao apresentar esta tradução aqui, nosso desejo é compartilhar o contato com a escrita de Brenez e, ao mesmo tempo, acolher sugestões, questionamentos e comentários para aprimorar a tradução. Para fazer isso, você pode [entrar em contato](/contato/), fazer comentários por meio do Hypothes.is, usando as opções disponíveis na barra na lateral direita desta página, ou ainda, no final da página, clicar em "Clique aqui para sugerir uma alteração nesta página" e usar os recursos do GitHub (embreve pretendo explicar melhor como isso funciona).
 
-# Primeira parte: Economias figurativas
+Boa leitura!
 
-## Os corpos sem modelo
+Marcelo Ribeiro
+
+---
+
+## Os corpos sem modelo, por Nicole Brenez
 
 ### Mas de início
 

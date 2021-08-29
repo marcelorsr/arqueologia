@@ -6,6 +6,4 @@ hide_page_title: false
 author: 'Alexandra Helena'
 ---
 
-Em breve.
-
-![A permanencia das estruturas](imgs/A%20permanência%20das%20estruturas.jpg)
+O catálogo está disponível em: [https://www.notion.so/marcelorsr/20e854ca7b34459f9acb6db7af67b1dd?v=ed8bc847a8854758b6e29bce8f828d04](https://www.notion.so/marcelorsr/20e854ca7b34459f9acb6db7af67b1dd?v=ed8bc847a8854758b6e29bce8f828d04)

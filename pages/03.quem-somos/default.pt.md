@@ -91,6 +91,8 @@ hide_hypothesis: true
 
 !!! Iniciação Científica 2021-2022
 
+!!!! Linha de pesquisa: Imagem e história
+
 [Saiba mais sobre João Guilherme](/quem-somos/integrantes/joao-guilherme-cardoso?classes=btn,btn-primary,btn-lg)
 
 ---

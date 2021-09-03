@@ -26,3 +26,5 @@ features:
 ## O que fazemos?
 
 Uma iniciativa interdisciplinar – e, potencialmente, indisciplinar e intersticial – que visa ao desenvolvimento de investigações teóricas, críticas, historiográficas, criativas e experimentais relacionadas às diferentes configurações da experiência das imagens.
+
+Espelho do grupo no Diretório de Grupos de Pesquisa do CNPq: [http://dgp.cnpq.br/dgp/espelhogrupo/9394228391162490](http://dgp.cnpq.br/dgp/espelhogrupo/9394228391162490)

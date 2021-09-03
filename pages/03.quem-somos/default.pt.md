@@ -7,7 +7,7 @@ hide_hypothesis: true
 
 ![Fotografia de Marcelo Ribeiro](imgs/marceloribeiro.jpg?resize=200&classes=right,s-circle)
 
-## Marcelo R. S. Ribeiro
+## Marcelo Rodrigues Souza Ribeiro
 
 !!! Coordenador
 
@@ -19,7 +19,7 @@ hide_hypothesis: true
 
 ![Fotografia de Marcelo Costa](imgs/marcelocosta.jpg?resize=200&classes=right,s-circle)
 
-## Marcelo M. Costa
+## Marcelo Monteiro Costa
 
 !!! Coordenador
 
@@ -31,7 +31,7 @@ hide_hypothesis: true
 
 ![Fotografia de Alexandra Helena](imgs/AlexandraHelena.jpg?resize=200&classes=right,s-circle)
 
-## Alexandra Helena 
+## Alexandra Helena Batista da Silva
 
 !!! Iniciação científica 2020-2021
 
@@ -63,25 +63,13 @@ hide_hypothesis: true
 
 ![Fotografia de Chris Mariani](imgs/ChrisMariani.jpg?resize=200&classes=right,s-circle)
 
-## Chris Mariani 
+## Christina Neves Mariani
 
 !!! Iniciação científica 2020-2021
 
 !!!! Linha de pesquisa: Imagem e história
 
 [Saiba mais sobre Chris](/quem-somos/integrantes/chris-mariani?classes=btn,btn-primary,btn-lg)
-
----
-
-![Fotografia de Dalila da Silva](imgs/Dalila%20da%20Silva.jpg?resize=200&classes=right,s-circle)
-
-## Dalila da Silva
-
-!!! Acolhimento 2020-2021
-
-!!!! Linha de pesquisa: Imagem e corpo
-
-[Saiba mais sobre Dalila](/quem-somos/integrantes/dalila-da-silva?classes=btn,btn-primary,btn-lg)
 
 ---
 
@@ -97,9 +85,19 @@ hide_hypothesis: true
 
 ---
 
+![Fotografia de João Guilherme Batista Cardoso](imgs/JoaoGuilherme.jpg?resize=200&classes=right,s-circle)
+
+## João Guilherme Batista Cardoso
+
+!!! Iniciação Científica 2021-2022
+
+[Saiba mais sobre João Guilherme](/quem-somos/integrantes/joao-guilherme-cardoso?classes=btn,btn-primary,btn-lg)
+
+---
+
 ![Fotografia de Kalinka Brant](imgs/KalinkaBrant.jpg?resize=200&classes=right,s-circle)
 
-## Kalinka Brant
+## Kalinka Brant da Silva
 
 !!! Mestrado (PPGCI-UFBA)
 
@@ -147,9 +145,9 @@ hide_hypothesis: true
 
 ![Fotografia de Marina Moreno](imgs/MarinaMoreno.jpg?resize=200&classes=right,s-circle)
 
-## Marina Moreno
+## Marina Moreno Baqueiro de Souza
 
-!!! Participação voluntária
+!!! Iniciação Científica 2021-2022
 
 [Saiba mais sobre Marina Moreno](/quem-somos/integrantes/marina-moreno?classes=btn,btn-primary,btn-lg)
 
@@ -157,7 +155,7 @@ hide_hypothesis: true
 
 ![Fotografia de Roberta Mutte](imgs/RobertaMutte.jpg?resize=200&classes=right,s-circle)
 
-## Roberta Mutte
+## Roberta Catherine Mutte de Castro
 
 !!! Iniciação Científica 2019-2020
 
@@ -169,7 +167,7 @@ hide_hypothesis: true
 
 ![Fotografia de Rogério Félix](imgs/RogerioFelix.jpg?resize=200&classes=right,s-circle)
 
-## Rogério Felix
+## Rogério Wesley Reis Felix Santos
 
 !!! Iniciação Científica 2020-2021
 

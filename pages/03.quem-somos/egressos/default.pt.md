@@ -9,6 +9,8 @@ hide_hypothesis: true
 
 [Ana Camila Esteves](/quem-somos/integrantes/ana-camila-esteves)
 
+[Dalila da Silva](/quem-somos/integrantes/dalila-da-silva)
+
 [George Diniz Teixeira](/quem-somos/integrantes/george-diniz-teixeira)
 
 [Jeferson Ferreira](/quem-somos/integrantes/jeferson-ferreira)

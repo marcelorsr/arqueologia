@@ -29,7 +29,7 @@ feed:
 
 Apresentamos aqui a primeira versão pública da tradução do capítulo "Les corps sans modèle", do livro _De la figure en général et du corps en particulier: l'invention figurative au cinéma_, de Nicole Brenez (1998). Trata-se do capítulo 1 da parte 1, "Economias figurativas". A "Introdução", intitulada "Carta a Tag Gallagher", está disponível [em tradução de Pedro Veras, no blog Culture Injection](https://cultureinjection.wordpress.com/2018/04/24/da-figura-em-geral-e-do-corpo-em-particular-a-invencao-figurativa-no-cinema-carta-a-tag-gallagher-por-nicoles-brenez-17-07-1998/).
 
-Esta tradução de "Les corps sans modèle" foi realizada de forma colaborativa por integrantes do Arqueologia do Sensível - especificamente: [Marcelo R. S. Ribeiro](/quem-somos/coordenadores/marcelo-ribeiro), [Marcelo Matos Oliveira](/quem-somos/integrantes/marcelo-matos), [Roberta Mutte](/quem-somos/integrantes/roberta-mutte/) e [Kalinka Brant](/quem-somos/integrantes/kalinka-brant/) - e constitui um trabalho em aberto, provisório, incerto, no qual assumimos alguns riscos e anotamos certas dificuldades, ao lidar com um texto que apresenta significativa densidade filosófica, teórica, conceitual, analítica e poética.
+Esta tradução de "Les corps sans modèle" foi realizada de forma colaborativa por integrantes do Arqueologia do Sensível - especificamente: [Marcelo R. S. Ribeiro](/quem-somos/coordenadores/marcelo-ribeiro), [Marcelo Matos Oliveira](/quem-somos/integrantes/marcelo-matos), [Roberta Mutte](/quem-somos/integrantes/roberta-mutte/), [Kalinka Brant](/quem-somos/integrantes/kalinka-brant/) e [João Guilherme Batista Cardoso](/quem-somos/integrantes/joao-guilherme-cardoso) - e constitui um trabalho em aberto, provisório, incerto, no qual assumimos alguns riscos e anotamos certas dificuldades, ao lidar com um texto que apresenta significativa densidade filosófica, teórica, conceitual, analítica e poética.
 
 Ao apresentar esta tradução aqui, nosso desejo é compartilhar o contato com a escrita de Brenez e, ao mesmo tempo, acolher sugestões, questionamentos e comentários para aprimorar a tradução. Para fazer isso, você pode [entrar em contato](/contato/), fazer comentários por meio do Hypothes.is, usando as opções disponíveis na barra na lateral direita desta página, ou ainda, no final da página, clicar em "Clique aqui para sugerir uma alteração nesta página" e usar os recursos do GitHub (em breve pretendo explicar melhor como isso funciona).
 
@@ -41,7 +41,7 @@ Marcelo Ribeiro
 
 ## Os corpos sem modelo, por Nicole Brenez
 
-Tradução em processo: [Marcelo R. S. Ribeiro](/quem-somos/coordenadores/marcelo-ribeiro), [Marcelo Matos Oliveira](/quem-somos/integrantes/marcelo-matos), [Roberta Mutte](/quem-somos/integrantes/roberta-mutte/) e [Kalinka Brant](/quem-somos/integrantes/kalinka-brant/)
+Tradução em processo: [Marcelo R. S. Ribeiro](/quem-somos/coordenadores/marcelo-ribeiro), [Marcelo Matos Oliveira](/quem-somos/integrantes/marcelo-matos), [Roberta Mutte](/quem-somos/integrantes/roberta-mutte/), [Kalinka Brant](/quem-somos/integrantes/kalinka-brant/) e [João Guilherme Batista Cardoso](/quem-somos/integrantes/joao-guilherme-cardoso)
 
 ### Mas de início
 

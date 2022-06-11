@@ -1,8 +1,7 @@
 ---
 title: 'Conversa aberta com Marcelo D''Salete'
-media_order: '16 Cine-desejo.jpg,03 Imagens submersas.jpg,04 Arqueologia do sensível.jpg,06 Arqueologia do sensível.jpg,08 Pornografia política.jpg,12 Cine-desejo.JPG,16 Cine-desejo.jpg'
-published: true
-date: '02-10-2020 10:20'
+media_order: 'Cumbe-Kalunga.jpg'
+date: '01-10-2020 10:20'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
 visible: false

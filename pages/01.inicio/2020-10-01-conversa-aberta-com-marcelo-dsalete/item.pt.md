@@ -1,7 +1,7 @@
 ---
 title: 'Conversa aberta com Marcelo D''Salete'
 media_order: 'Cumbe-Kalunga.jpg'
-date: '01-10-2020 10:20'
+date: '01-10-2020 21:20'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
 visible: false

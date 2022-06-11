@@ -1,5 +1,5 @@
 ---
-title: ' Blog cineviagens: uma proposta warburguiana-benjaminiana, com Luíza Alvim '
+title: 'Blog cineviagens: uma proposta warburguiana-benjaminiana, com Luíza Alvim'
 media_order: 'YouTubeLuizaAlvim.jpg'
 date: '27-05-2021 23:00'
 hide_git_sync_repo_link: false

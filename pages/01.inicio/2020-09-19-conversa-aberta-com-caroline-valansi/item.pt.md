@@ -17,7 +17,7 @@ feed:
 author: 'Marcelo R. S. Ribeiro'
 ---
 
-_Por Marcelo R. S. Ribeiro_
+*Por Marcelo R. S. Ribeiro*
 
 Na [segunda, 21/09, a partir das 18h](http://www.arqueologiadosensivel.ufba.br/atividades/conversa-aberta-com-caroline-valansi), ocorre mais uma edição do projeto #Anarqueológicas, com a Conversa aberta com Caroline Valansi.
 
@@ -35,7 +35,7 @@ Você já se perguntou o que é *arqueologia do sensível*?
 
 Quando criamos o grupo, a noção de arqueologia do sensível apareceu como uma forma de definir um modo de abordagem e um campo de forças que nos interessava interrogar.
 
-##### Abaixo, uma fotografia da instalação *Arqueologia do sensível* (2013), de Caroline Valansi
+**Abaixo, uma fotografia da instalação *Arqueologia do sensível* (2013), de Caroline Valansi**
 
 ![](06%20Arqueologia%20do%20sensi%CC%81vel.jpg?classes=center)
 

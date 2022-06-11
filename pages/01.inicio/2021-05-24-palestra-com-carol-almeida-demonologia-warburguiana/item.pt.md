@@ -25,6 +25,6 @@ No dia 24/05, ocorreu a palestra , **Por uma demonologia warburguiana das imagen
 
 Assista à transmissão ao vivo, que continua disponível como gravação no nosso canal do Youtube:
 
-[![Imagem destacada do vídeo da transmissão ao vivo no YouTube](YouTubeCarolAlmeida.jpg "Imagem destacada do vídeo da transmissão ao vivo no YouTube")](https://www.youtube.com/watch?v=yUwgjHqsi6w)
+[plugin:youtube](https://www.youtube.com/watch?v=yUwgjHqsi6w)
 
 Carol Almeida é Doutora no programa de pós-graduação em Comunicação na UFPE, com pesquisa centrada no cinema contemporâneo brasileiro. Faz parte da equipe curatorial do Festival Olhar de Cinema/Curitiba desde 2017, e já participou da curadoria do Recifest, da Mostra Sesc de Cinema e, mais recentemente, da 2ª Mostra de Cinema Árabe Feminino. Dá oficinas sobre crítica de cinema, curadoria, cinema brasileiro contemporâneo e representação de mulheres no cinema. Integrou júris de festivais como Tiradentes, Mostra de São Paulo, FestCurtas BH, Janela de Cinema e Animage. Escreve sobre cinema no blog [foradequadro.com](http://foradequadro.com/).

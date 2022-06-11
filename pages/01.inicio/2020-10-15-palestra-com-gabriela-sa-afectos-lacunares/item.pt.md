@@ -1,5 +1,5 @@
 ---
-title: 'Conversa aberta com Marcelo D''Salete'
+title: 'Palestra com Gabriela Sá: Afectos lacunares'
 media_order: 'cannedmemories-gabrielasa-2014-2.jpg'
 date: '15-10-2020 22:20'
 hide_git_sync_repo_link: false

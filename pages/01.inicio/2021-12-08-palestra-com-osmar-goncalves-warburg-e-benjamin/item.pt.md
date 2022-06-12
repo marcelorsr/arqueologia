@@ -1,5 +1,5 @@
 ---
-title: 'Mesa Teorias do cinema e políticas da representação no Congresso UFBA 75 Anos'
+title: 'Warburg e Benjamin: o inacabamento e a montagem como métodos de conhecimento, com Osmar Gonçalves'
 media_order: ''
 date: '12-06-2022 13:21'
 hide_git_sync_repo_link: false

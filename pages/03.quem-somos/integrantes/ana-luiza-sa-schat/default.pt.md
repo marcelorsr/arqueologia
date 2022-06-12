@@ -1,5 +1,5 @@
 ---
-title: 'Ana Lúcia Albuquerque'
+title: 'Ana Luíza Sá Schat'
 published: true
 hide_git_sync_repo_link: true
 hide_hypothesis: true

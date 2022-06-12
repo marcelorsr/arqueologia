@@ -1,5 +1,5 @@
 ---
-title: 'Atividades a definir'
+title: 'Leitura colaborativa de Mal de Arquivo'
 taxonomy:
     category:
         - Reunião
@@ -11,3 +11,5 @@ event:
 ---
 
 Reunião online por meio de videoconferência.
+
+- Leitura colaborativa do livro *Mal de arquivo: uma impressão freudiana*, de Jacques Derrida.

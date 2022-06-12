@@ -1,5 +1,5 @@
 ---
-title: 'Mesa Nebulosas Afro-Atlânticas'
+title: 'Mesa Teorias do cinema e políticas da representação no Congresso UFBA 75 Anos'
 media_order: ''
 date: '01-06-2021 23:00'
 hide_git_sync_repo_link: false

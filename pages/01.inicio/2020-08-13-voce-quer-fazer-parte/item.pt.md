@@ -22,8 +22,6 @@ feed:
 author: 'Marcelo R. S. Ribeiro'
 ---
 
-_Por Marcelo R. S. Ribeiro_
-
 As nossas reuniões e atividades são públicas e abertas, e você encontra os registros do que temos feito no item [**Atividades**](http://www.arqueologiadosensivel.ufba.br/atividades), no menu do site. Ali está um calendário que indica também o cronograma a seguir. Se quiser participar, basta [entrar em contato](http://www.arqueologiadosensivel.ufba.br/contato) e detalhar seu interesse, pra que a gente possa dar o caminho das pedras, como se diz.
 
 Pra quem tiver interesse em formas de participação menos difusas ou eventuais e queira fazer parte do grupo de modo mais ativo (e passível de reconhecimento institucional e certificação), nós temos dois caminhos abertos, atualmente: o [Edital de Seleção para Iniciação Científica 01/2020](http://www.arqueologiadosensivel.ufba.br/atividades/edital-iniciacao-cientifica-2020) e o [Edital para Acolhimento de Integrantes 02-2020](http://www.arqueologiadosensivel.ufba.br/atividades/edital-acolhimento-2020) (são dois editais do grupo, por isso a numeração sequencial).

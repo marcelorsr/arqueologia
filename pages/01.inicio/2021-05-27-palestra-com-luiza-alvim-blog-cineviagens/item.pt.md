@@ -17,8 +17,6 @@ feed:
 author: 'Marcelo R. S. Ribeiro'
 ---
 
-*Por Marcelo R. S. Ribeiro*
-
 No dia 27/05, ocorreu a palestra , **Blog cineviagens: uma proposta warburguiana-benjaminiana**, com [Luíza Alvim](https://cineviagens.blogspot.com/), no ciclo 2021.1 das [Conversas Anarqueológicas](http://arqueologiadosensivel.ufba.br/projetos/extensao/anarqueologicas).
 
 > Desde há muito tempo venho buscando confrontar (sem o sentido bélico, mas o de colocar lado a lado) os lugares do mundo com o meu museu imaginário (segundo o conceito de André Malraux) alimentado pelas aulas de História e Geografia da escola. Com a crescente importância da Literatura e do Cinema em minha vida, o escopo dos lugares imaginados por mim e pelo cinema se expandiu consideravelmente. Não é algo só referente aos espaços, mas também temporal: como sobrevivem as imagens do que um dia esses lugares já foram? Quantas ruínas, camadas de tempo, estão numa foto de um presente? Foi me baseando nos conceitos de “doutrina das semelhanças” (Walter Benjamin) e das sobrevivências e montagens por imagens (de Aby Warburg, considerados a partir de Didi-Huberman) que criei o blog cineviagens.blogspot.com. Pretendo pensar aqui os fundamentos do processo criativo do blog e dar alguns exemplos.

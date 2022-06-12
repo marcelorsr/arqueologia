@@ -28,7 +28,7 @@ recaptchacontact:
     enabled: false
 ---
 
-Uma recomendação comentada do livro O que você vê?, de Marie José Mondzain.
+Uma recomendação comentada do livro *O que você vê?*, de Marie José Mondzain.
 
 [plugin:youtube](https://www.youtube.com/watch?v=nxPaWHprVXQ)
 

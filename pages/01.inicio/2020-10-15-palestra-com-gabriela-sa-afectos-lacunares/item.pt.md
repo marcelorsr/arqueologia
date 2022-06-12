@@ -17,8 +17,6 @@ feed:
 author: 'Marcelo R. S. Ribeiro'
 ---
 
-*Por Marcelo R. S. Ribeiro*
-
 No dia 15/10, quinta-feira, às 19h, ocorreu mais uma palestra do projeto #Anarqueológicas, **af ec tos l l lacu nar e s: um estudo acerca da poética do arquivo e do impulso anarquívistico**, com [Gabriela Sá](https://www.instagram.com/dsagabriela/). Você pode conhecer também o trabalho dela como parte do duo [.:grão](https://cargocollective.com/grao-us), com Ícaro Moreno (o duo também está [no Instagram](https://www.instagram.com/grao.us/)). Assista à palestra no nosso canal no Youtube:
 
 [plugin:youtube](https://www.youtube.com/watch?v=ZUTDyiIZmOk)

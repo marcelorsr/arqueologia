@@ -23,7 +23,7 @@ feed:
 author: 'Marcelo R. S. Ribeiro'
 ---
 
-_Por Marcelo R. S. Ribeiro_ (Texto atualizado em 02/09/2020)
+Texto atualizado em 02/09/2020.
 
 Acontece [na quarta-feira, 2 de setembro, às 19h, o lançamento do livro _Do inimaginável_](https://www.facebook.com/events/619350069001133/), que foi publicado pela Editora UFG em dezembro de 2019 e corresponde a uma versão revisada da parte inédita da minha tese de doutorado, defendida em 2016. Decidi organizar o evento por conta própria, uma vez que a eclosão e a persistência da pandemia e de seus efeitos aterradores têm dificultado a divulgação e a circulação da obra, por uma série de razões. Abaixo você pode assistir ao [_teaser_](https://vimeo.com/449719036) que fiz pra essa ocasião:
 

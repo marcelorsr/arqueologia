@@ -1,5 +1,5 @@
 ---
-title: 'Leitura colaborativa'
+title: 'Leitura e tradução colaborativa'
 taxonomy:
     category:
         - Reunião

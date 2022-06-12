@@ -9,9 +9,9 @@ hide_hypothesis: true
 
 ## Ana Luíza Sá Schat
 
-!! Mestranda (Póscom-UFBA)
+!!! Mestranda (Póscom-UFBA)
 
-!!! Pesquisadora associada
+!!!! Linha de pesquisa: Imagem e história
 
  Foto Mestranda em Comunicação e Cultura Contemporâneas (PÓSCOM/UFBA). Bacharela em Ciências Sociais, ênfase em Sociologia (UFBA). Também participa do grupo de pesquisa Representações Sociais: arte, ciência e ideologia (NUCLEART), sediado na FFCH/UFBA.
 

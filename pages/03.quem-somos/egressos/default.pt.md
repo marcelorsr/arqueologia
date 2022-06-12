@@ -5,13 +5,19 @@ hide_git_sync_repo_link: true
 hide_hypothesis: true
 ---
 
-# Egressos
+## Egressos
 
 [Ana Camila Esteves](/quem-somos/integrantes/ana-camila-esteves)
+
+[Andressa Mascarenhas](/quem-somos/integrantes/andressa-mascarenhas)
+
+[Christina Neves Mariani](/quem-somos/integrantes/chris-mariani)
 
 [Dalila da Silva](/quem-somos/integrantes/dalila-da-silva)
 
 [George Diniz Teixeira](/quem-somos/integrantes/george-diniz-teixeira)
+
+[Igor Yuri Algozino de Andrade](/quem-somos/integrantes/igor-yuri)
 
 [Jeferson Ferreira](/quem-somos/integrantes/jeferson-ferreira)
 
@@ -22,6 +28,8 @@ hide_hypothesis: true
 [Marcos Alexandre](/quem-somos/integrantes/marcos-alexandre)
 
 [Maria Rodrigues](/quem-somos/integrantes/maria-rodrigues)
+
+[Marina Lordelo Carneiro](/quem-somos/integrantes/marina-lordelo)
 
 [Mateus de Jesus Viana](/quem-somos/integrantes/mateus-viana)
 

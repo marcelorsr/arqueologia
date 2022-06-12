@@ -51,37 +51,13 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Andressa Mascarenhas](imgs/AndressaMascarenhas.jpg?resize=200&classes=right,s-circle)
+![Fotografia de Ana Luíza Sá Schat](imgs/AnaLuizaSaSchat.jpg?resize=200&classes=right,s-circle)
 
-## Andressa Mascarenhas 
+## Ana Luíza Sá Schat
 
-!!! Participação voluntária
+!!! Mestranda (Póscom-UFBA)
 
-[Saiba mais sobre Andressa](/quem-somos/integrantes/andressa-mascarenhas?classes=btn,btn-primary,btn-lg)
-
----
-
-![Fotografia de Chris Mariani](imgs/ChrisMariani.jpg?resize=200&classes=right,s-circle)
-
-## Christina Neves Mariani
-
-!!! Iniciação científica 2020-2021
-
-!!!! Linha de pesquisa: Imagem e história
-
-[Saiba mais sobre Chris](/quem-somos/integrantes/chris-mariani?classes=btn,btn-primary,btn-lg)
-
----
-
-![Fotografia de Igor Yuri](imgs/IgorYuri.jpg?resize=200&classes=right,s-circle)
-
-## Igor Yuri Algozino de Andrade 
-
-!!! Acolhimento 2020-2021
-
-!!!! Linha de pesquisa: Imagem e história
-
-[Saiba mais sobre Alexandra](/quem-somos/integrantes/igor-yuri?classes=btn,btn-primary,btn-lg)
+[Saiba mais sobre Ana Luíza](/quem-somos/integrantes/ana-luiza-sa-schat?classes=btn,btn-primary,btn-lg)
 
 ---
 
@@ -101,7 +77,7 @@ hide_hypothesis: true
 
 ## Kalinka Brant da Silva
 
-!!! Mestrado (PPGCI-UFBA)
+!!! Mestranda (PPGCI-UFBA)
 
 !!!! Linha de pesquisa: Imagem e história
 
@@ -130,18 +106,6 @@ hide_hypothesis: true
 !!!! Linha de pesquisa: Imagem e história
 
 [Saiba mais sobre Márcio](/quem-somos/integrantes/marcio-henrique?classes=btn,btn-primary,btn-lg)
-
----
-
-![Fotografia de Marina Lordelo](imgs/MarinaLordelo.jpeg?resize=200&classes=right,s-circle)
-
-## Marina Lordelo Carneiro
-
-!!! Iniciação Científica 2019-2020
-
-!!!! Linha de pesquisa: Imagem e história
-
-[Saiba mais sobre Marina Lordelo](/quem-somos/integrantes/marina-lordelo?classes=btn,btn-primary,btn-lg)
 
 ---
 

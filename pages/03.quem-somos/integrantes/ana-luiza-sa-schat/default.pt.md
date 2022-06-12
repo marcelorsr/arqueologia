@@ -9,7 +9,7 @@ hide_hypothesis: true
 
 ## Ana Luíza Sá Schat
 
-!! Mestranda - Póscom
+!! Mestranda (Póscom-UFBA)
 
 !!! Pesquisadora associada
 

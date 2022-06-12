@@ -26,25 +26,25 @@ Assista à transmissão ao vivo no YouTube da TV UFBA:
 [plugin:youtube](https://www.youtube.com/watch?v=1-FcPA6NXVM)
 
 - "Existe Amor em Hollywood? Uma investigação da construção de relacionamentos românticos em três filmes de Hollywood produzidos entre os anos 1942 a 2003"
-  - Apresentação:
-    - Ana Clara Almeida Moreira
-    - João Lauro Ribeiro
-  - Outros/as integrantes:
-    - Luisa Maciel Diniz Gonçalves
-    - Raquel Souza Franco
+    - Apresentação:
+        - Ana Clara Almeida Moreira
+        - João Lauro Ribeiro
+    - Outros/as integrantes:
+        - Luisa Maciel Diniz Gonçalves
+        - Raquel Souza Franco
 - "O enredo de Aristóteles - Uma análise fílmica tendo como foco a argumentação sobre políticas de identidade, representação e espectatorialidade"
-  - Apresentação:
-    - Diana de Oliveira Souza Reis
-    - Marina Moreno Baqueiro de Souza
-  - Outros/as integrantes:
-    - Jade Emanuele Santana dos Santos
-    - José Ednilson Almeida do Sacramento
-    - Rayana Azevêdo Oliveira
+    - Apresentação:
+        - Diana de Oliveira Souza Reis
+        - Marina Moreno Baqueiro de Souza
+    - Outros/as integrantes:
+        - Jade Emanuele Santana dos Santos
+        - José Ednilson Almeida do Sacramento
+        - Rayana Azevêdo Oliveira
 - "Raça e representação: a figura do corpo negro no cinema nacional"
-  - Apresentação:
-    - Jessica Brito Santana
-    - Midiã Alves dos Santos
-  - Outros/as integrantes:
-    - Adilton dos Santos Santana
-    - Rafael Matos Mota
-    - Vitória Maria Sampaio Silva
+    - Apresentação:
+        - Jessica Brito Santana
+        - Midiã Alves dos Santos
+    - Outros/as integrantes:
+        - Adilton dos Santos Santana
+        - Rafael Matos Mota
+        - Vitória Maria Sampaio Silva

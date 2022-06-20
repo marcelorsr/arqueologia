@@ -6,8 +6,8 @@ taxonomy:
 hide_git_sync_repo_link: true
 hide_hypothesis: true
 event:
-    start: '20-06-2022 18:00'
-    end: '20-06-2022 20:00'
+    start: '27-06-2022 18:00'
+    end: '27-06-2022 20:00'
 ---
 
 Reunião online por meio de videoconferência.

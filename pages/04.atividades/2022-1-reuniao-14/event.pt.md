@@ -18,7 +18,7 @@ Reunião online por meio de videoconferência.
 
 ### Resumo
 
-Discutindo a atribuição de autoria como fundamento da inscrição do cinema no arquivo colonial, proponho um estudo comparativo de Afrique 50, Afrique sur Seine, Moi, un noir e Cabascabo, em uma nebulosa anarquívica. Entre duas constelações fílmicas, associadas, no contexto da África de colonização francesa, ao cinema colonial e ao cinema anti-colonial, essa nebulosa se caracteriza por passagens de imagens nas quais é possível reconhecer autorias rasuradas que perturbam a ordem do arquivo.
+Discutindo a atribuição de autoria como fundamento da inscrição do cinema no arquivo colonial, proponho um estudo comparativo de *Afrique 50*, *Afrique sur Seine*, *Moi, un noir* e *Cabascabo*, em uma nebulosa anarquívica. Entre duas constelações fílmicas, associadas, no contexto da África de colonização francesa, ao cinema colonial e ao cinema anti-colonial, essa nebulosa se caracteriza por passagens de imagens nas quais é possível reconhecer autorias rasuradas que perturbam a ordem do arquivo.
 
 ### Resumo expandido
 

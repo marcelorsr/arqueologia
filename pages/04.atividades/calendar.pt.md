@@ -17,7 +17,7 @@ content:
     pagination: true
 ---
 
-As reuniões semanais do grupo ocorrem, a princípio, durante os períodos letivos da UFBA. Atualmente, essas reuniões semanais são toda segunda, a partir das 17h30.
+As reuniões semanais do grupo ocorrem, a princípio, durante os períodos letivos da UFBA. Atualmente, essas reuniões semanais são toda segunda, a partir das 19h.
 
 Clique nos dias destacados para saber mais detalhes sobre as atividades que realizamos.
 

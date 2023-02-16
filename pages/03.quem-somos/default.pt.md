@@ -27,7 +27,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Emaxsuel Roger Rodrigues](../../imgs/EmaxsuelRogerRodrigues.jpg?resize=400&classes=center,s-circle)
+![Fotografia de Emaxsuel Roger Rodrigues](/imgs/EmaxsuelRogerRodrigues.jpg?resize=400&classes=center,s-circle)
 
 ## Emaxsuel Roger Rodrigues
 
@@ -97,7 +97,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Thaís Vieira Costa](../../imgs/MateusOliveira.jpg?resize=400&classes=center,s-circle)
+![Fotografia de Thaís Vieira Costa](imgs/MateusOliveira.jpg?resize=400&classes=center,s-circle)
 
 ## Mateus Costa de Oliveira
 
@@ -133,7 +133,7 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Thaís Vieira Costa](../../imgs/ThaisVieiraCosta.jpg?resize=400&classes=center,s-circle)
+![Fotografia de Thaís Vieira Costa](imgs/ThaisVieiraCosta.jpg?resize=400&classes=center,s-circle)
 
 ## Thaís Vieira Costa
 

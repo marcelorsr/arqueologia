@@ -13,6 +13,6 @@ hide_hypothesis: true
 
 !!!! Linha de pesquisa: Imagem e história
 
-Graduando em História (UFBA) e bolsista de iniciação científica com o plano de trabalho **Cinema e audiovisual na Memória do Mundo (Unesco): políticas da _memória do mundo_**, no projeto [Cinema e audiovisual na Memória do Mundo (Unesco): tecnologias da comunicação e informação, cosmotécnicas e políticas da memória](/projetos/pesquisa/o-paradigma-anarquivico/pibic-2021-2022-cinema-e-audiovisual-na-memoria-do-mundo), sob orientação de [Marcelo R. S. Ribeiro](/quem-somos/coordenadores/marcelo-ribeiro), de setembro de 2021 a agosto de 2022.
+Graduado em História (UFBA). Foi bolsista de iniciação científica com o plano de trabalho **Cinema e audiovisual na Memória do Mundo (Unesco): políticas da _memória do mundo_**, no projeto [Cinema e audiovisual na Memória do Mundo (Unesco): tecnologias da comunicação e informação, cosmotécnicas e políticas da memória](/projetos/pesquisa/o-paradigma-anarquivico/pibic-2021-2022-cinema-e-audiovisual-na-memoria-do-mundo), sob orientação de [Marcelo R. S. Ribeiro](/quem-somos/coordenadores/marcelo-ribeiro), de setembro de 2021 a agosto de 2022.
 
 [Currículo Lattes](http://lattes.cnpq.br/5819930588100159?classes=btn,btn-primary,btn-lg&target=_blank)

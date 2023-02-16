@@ -1,5 +1,5 @@
 ---
-title: 'Marcelo M. Costa'
+title: 'Marcelo Costa'
 published: true
 hide_git_sync_repo_link: true
 hide_hypothesis: true
@@ -7,9 +7,9 @@ hide_hypothesis: true
 
 ![Fotografia de Marcelo Costa](../../imgs/marcelocosta.jpg?resize=400&classes=center,s-circle)
 
-## Marcelo M. Costa
+## Marcelo Monteiro Costa
 
-!!! Coordenador
+!!! Pesquisador associado
 
 !!!! Linha de pesquisa: Imagem e corpo
 

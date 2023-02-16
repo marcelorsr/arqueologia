@@ -9,7 +9,7 @@ hide_hypothesis: true
 
 ## Roberta Mutte
 
-!!! Iniciação científica 2019-2020
+!!! Iniciação científica 2019-2020 & Participação voluntária
 
 !!!! Linha de pesquisa: Imagem e história
 

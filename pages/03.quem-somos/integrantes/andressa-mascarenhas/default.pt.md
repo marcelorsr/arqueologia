@@ -9,6 +9,8 @@ hide_hypothesis: true
 
 ## Andressa Mascarenhas
 
+!! Egressa
+
 !!! Participação voluntária
 
 Andressa Mascarenhas é arquiteta e urbanista formada pela Universidade Federal da Bahia e com formação livre em direção de arte pela Academia Internacional de Cinema – São Paulo. Atua como cenógrafa e diretora de arte desde 2015, colaborando no mercado audiovisual em diversos projetos como curtas, longas-metragem, séries televisivas, publicidades e peças teatrais.

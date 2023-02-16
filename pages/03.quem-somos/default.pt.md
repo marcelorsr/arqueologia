@@ -17,30 +17,6 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Marcelo Costa](imgs/marcelocosta.jpg?resize=200&classes=right,s-circle)
-
-## Marcelo Monteiro Costa
-
-!!! Coordenador
-
-!!!! Linha de pesquisa: Imagem e corpo
-
-[Saiba mais sobre Marcelo Costa](/quem-somos/coordenadores/marcelo-costa?classes=btn,btn-primary,btn-lg)
-
----
-
-![Fotografia de Alexandra Helena](imgs/AlexandraHelena.jpg?resize=200&classes=right,s-circle)
-
-## Alexandra Helena Batista da Silva
-
-!!! Iniciação científica 2020-2021
-
-!!!! Linha de pesquisa: Imagem e história
-
-[Saiba mais sobre Alexandra](/quem-somos/integrantes/alexandra-helena?classes=btn,btn-primary,btn-lg)
-
----
-
 ![Fotografia de Ana Lúcia Albuquerque](imgs/AnaLuciaAlbuquerque.jpg?resize=200&classes=right,s-circle)
 
 ## Ana Lucia Albuquerque
@@ -51,13 +27,15 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Ana Luíza Sá Schat](imgs/AnaLuizaSaSchat.jpg?resize=200&classes=right,s-circle)
+![Fotografia de Emaxsuel Roger Rodrigues](../../imgs/EmaxsuelRogerRodrigues.jpg?resize=400&classes=center,s-circle)
 
-## Ana Luíza Sá Schat
+## Emaxsuel Roger Rodrigues
 
-!!! Mestranda (Póscom-UFBA)
+!!! Doutorando (Póscom-UFBA)
 
-[Saiba mais sobre Ana Luíza](/quem-somos/integrantes/ana-luiza-sa-schat?classes=btn,btn-primary,btn-lg)
+!!!! Linha de pesquisa: Imagem e história
+
+[Saiba mais sobre Emaxsuel](/quem-somos/integrantes/emaxsuel-roger-rodrigues?classes=btn,btn-primary,btn-lg)
 
 ---
 
@@ -89,7 +67,7 @@ hide_hypothesis: true
 
 ## Marcelo Matos Oliveira
 
-!!! Doutorado (PPGAC-UFBA)
+!!! Doutorando (PPGAC-UFBA)
 
 !!!! Linha de pesquisa: Imagem e corpo
 
@@ -97,15 +75,15 @@ hide_hypothesis: true
 
 ---
 
-![Fotografia de Márcio Henrique](imgs/MarcioHenrique.jpg?resize=200&classes=right,s-circle)
+![Fotografia de Marcelo Costa](imgs/marcelocosta.jpg?resize=200&classes=right,s-circle)
 
-## Márcio Henrique Melo de Andrade
+## Marcelo Monteiro Costa
 
-!!! Acolhimento 2020-2021
+!!! Pesquisador associado
 
-!!!! Linha de pesquisa: Imagem e história
+!!!! Linha de pesquisa: Imagem e corpo
 
-[Saiba mais sobre Márcio](/quem-somos/integrantes/marcio-henrique?classes=btn,btn-primary,btn-lg)
+[Saiba mais sobre Marcelo Costa](/quem-somos/integrantes/marcelo-costa?classes=btn,btn-primary,btn-lg)
 
 ---
 
@@ -115,7 +93,19 @@ hide_hypothesis: true
 
 !!! Iniciação Científica 2021-2022
 
-[Saiba mais sobre Marina Moreno](/quem-somos/integrantes/marina-moreno?classes=btn,btn-primary,btn-lg)
+[Saiba mais sobre Marina](/quem-somos/integrantes/marina-moreno?classes=btn,btn-primary,btn-lg)
+
+---
+
+![Fotografia de Thaís Vieira Costa](../../imgs/MateusOliveira.jpg?resize=400&classes=center,s-circle)
+
+## Mateus Costa de Oliveira
+
+!!! Mestrando (Póscom-UFBA)
+
+!!!! Linha de pesquisa: Imagem e história
+
+[Saiba mais sobre Mateus](/quem-somos/integrantes/mateus-costa-de-oliveira?classes=btn,btn-primary,btn-lg)
 
 ---
 
@@ -140,6 +130,18 @@ hide_hypothesis: true
 !!!! Linha de pesquisa: Imagem e história
 
 [Saiba mais sobre Rogério](/quem-somos/integrantes/rogerio-felix?classes=btn,btn-primary,btn-lg)
+
+---
+
+![Fotografia de Thaís Vieira Costa](../../imgs/ThaisVieiraCosta.jpg?resize=400&classes=center,s-circle)
+
+## Thaís Vieira Costa
+
+!!! Mestranda (Póscom-UFBA)
+
+!!!! Linha de pesquisa: Imagem e história
+
+[Saiba mais sobre Roberta](/quem-somos/integrantes/thais-vieira-costa?classes=btn,btn-primary,btn-lg)
 
 ---
 

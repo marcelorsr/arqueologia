@@ -7,7 +7,9 @@ hide_hypothesis: true
 
 ![Fotografia de Chris Mariani](../../imgs/ChrisMariani.jpg?resize=400&classes=center,s-circle)
 
-## Chris Mariani 
+## Chris Mariani
+
+!! Egressa
 
 !!! Iniciação científica 2020-2021
 

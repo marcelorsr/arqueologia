@@ -7,7 +7,11 @@ hide_hypothesis: true
 
 ## Egressos
 
+[Alexandra Helena Batista da Silva](/quem-somos/integrantes/alexandra-helena)
+
 [Ana Camila Esteves](/quem-somos/integrantes/ana-camila-esteves)
+
+[Ana Luíza Sá Schat](/quem-somos/integrantes/ana-luiza-sa-schat)
 
 [Andressa Mascarenhas](/quem-somos/integrantes/andressa-mascarenhas)
 
@@ -24,6 +28,8 @@ hide_hypothesis: true
 [Jônatas Pereira](/quem-somos/integrantes/jonatas-pereira)
 
 [Juliana Cajives](/quem-somos/integrantes/juliana-cajives)
+
+[Márcio Henrique Melo de Andrade](/quem-somos/integrantes/marcio-henrique)
 
 [Marcos Alexandre](/quem-somos/integrantes/marcos-alexandre)
 

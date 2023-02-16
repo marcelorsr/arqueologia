@@ -9,7 +9,9 @@ hide_hypothesis: true
 
 ## Igor Yuri Algozino de Andrade
 
-!!! Acolhimento 2020-2021
+!! Egresso
+
+!!! Acolhimento 2020-2021 (projeto interrompido/adiado)
 
 !!!! Linha de pesquisa: Imagem e história
 

@@ -9,6 +9,8 @@ hide_hypothesis: true
 
 ## Márcio Henrique Melo de Andrade
 
+!! Egresso
+
 !!! Acolhimento 2020-2021
 
 !!!! Linha de pesquisa: Imagem e história

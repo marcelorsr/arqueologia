@@ -9,30 +9,24 @@ hide_hypothesis: true
 
 [Marcelo R. S. Ribeiro](/quem-somos/coordenadores/marcelo-ribeiro)
 
-[Marcelo M. Costa](/quem-somos/coordenadores/marcelo-costa)
-
-[Alexandra Helena](/quem-somos/integrantes/alexandra-helena)
-
 [Ana Lucia Albuquerque](/quem-somos/integrantes/ana-lucia-albuquerque)
 
-[Andressa Mascarenhas](/quem-somos/integrantes/andressa-mascarenhas)
+[Emaxsuel Roger Rodrigues](/quem-somos/integrantes/emaxsuel-roger-rodrigues)
 
-[Chris Mariani](/quem-somos/integrantes/chris-mariani)
-
-[Dalila da Silva](/quem-somos/integrantes/dalila-da-silva)
-
-[Igor Yuri Algozino de Andrade](/quem-somos/integrantes/igor-yuri)
+[João Guilherme Batista Cardoso](/quem-somos/integrantes/joao-guilherme-cardoso)
 
 [Kalinka Brant](/quem-somos/integrantes/kalinka-brant)
 
 [Marcelo Matos Oliveira](/quem-somos/integrantes/marcelo-matos)
 
-[Márcio Henrique Melo de Andrade](/quem-somos/integrantes/marcio-henrique)
-
-[Marina Lordelo Carneiro](/quem-somos/integrantes/marina-lordelo)
+[Marcelo Monteiro Costa](/quem-somos/integrantes/marcelo-costa)
 
 [Marina Moreno](/quem-somos/integrantes/marina-moreno)
+
+[Mateus Costa de Oliveira](/quem-somos/integrantes/mateus-costa-de-oliveira)
 
 [Roberta Mutte](/quem-somos/integrantes/roberta-mutte)
 
 [Rogério Felix](/quem-somos/integrantes/rogerio-felix)
+
+[Thaís Vieira Costa](/quem-somos/integrantes/thais-vieira-costa)

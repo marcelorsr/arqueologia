@@ -141,7 +141,7 @@ hide_hypothesis: true
 
 !!!! Linha de pesquisa: Imagem e história
 
-[Saiba mais sobre Roberta](/quem-somos/integrantes/thais-vieira-costa?classes=btn,btn-primary,btn-lg)
+[Saiba mais sobre Thaís](/quem-somos/integrantes/thais-vieira-costa?classes=btn,btn-primary,btn-lg)
 
 ---
 

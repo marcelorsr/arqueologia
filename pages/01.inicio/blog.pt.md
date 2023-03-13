@@ -1,6 +1,6 @@
 ---
 title: Início
-media_order: Fundo1000px.jpg
+media_order: gas.jpg
 hide_git_sync_repo_link: true
 hide_hypothesis: true
 body_classes: 'header-dark header-transparent'
@@ -36,5 +36,4 @@ modular_content:
 pagination: true
 ---
 
-# **Arqueologia do sensível**
-## Grupo de pesquisa e estudos
+# **grupo (an)arqueologias do sensível**
